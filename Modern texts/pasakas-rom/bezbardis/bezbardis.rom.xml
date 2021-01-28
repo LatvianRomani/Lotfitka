@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="uk" variant_id="0">Jekh molos dzīvinde duj špala, jone sāre duj gine an svetus, an dūr phuja.</se>
+    <se lang="lv" variant_id="1">Reiz dzīvoja divi brāļi, tie abi devās svešumā, uz tālām zemēm.</se>
+    <weight variant_id="1">0,255556</weight>
+  </para>
+  <para id="1">
+    <se lang="uk" variant_id="0">Jekh špal an drom meija, bet vār špal jača slavenu te barvalu, dasav slavenu te barvalu ki mānuša dživindepe.</se>
+    <se lang="lv" variant_id="1">Viens brālis ceļā nomira, bet otrs kļuva dižs un bagāts, tik dižs un bagāts, cik vien var iedomāties.</se>
+    <weight variant_id="1">0,433189</weight>
+  </para>
+  <para id="2">
+    <se lang="uk" variant_id="0">Ne leske sis bāri nabaht – leske nasis čāvu, kon te jačel hulaj an valsta.</se>
+    <se lang="lv" variant_id="1">Taču viņu piemeklēja liela nelaime — nebija dēla, kas varētu mantot valsti.</se>
+    <weight variant_id="1">0,280328</weight>
+  </para>
+  <para id="3">
+    <se lang="uk" variant_id="0">Vaš dova jov jekh dīs bičadža ziņa peski semencake – mi jāl ku jov lesku špalesku čāvu.</se>
+    <se lang="lv" variant_id="1">Tāpēc viņš kādu dienu aizsūtīja ziņu savam radiniekam — lai še ierodoties brāļadēls.</se>
+    <weight variant_id="1">0,295833</weight>
+  </para>
+  <para id="4">
+    <se lang="uk" variant_id="0">So kana špaleski čāveske te kērel?</se>
+    <se lang="lv" variant_id="1">Ko nu brāļadēlam bija darīt?</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="5">
+    <se lang="uk" variant_id="0">Čāvu gija ku pesku kak.</se>
+    <se lang="lv" variant_id="1">Puisis devās vien pie tēvoča.</se>
+    <weight variant_id="1">0,21</weight>
+  </para>
+  <para id="6">
+    <se lang="uk" variant_id="0">An drom jov zalača mānušes koneske nasis brozda, kon lestir bučja:</se>
+    <se lang="lv" variant_id="1">Ceļā viņam gadījās kāds bezbārdains vīrs, kurš vaicāja:</se>
+    <weight variant_id="1">0,25102</weight>
+  </para>
+  <para id="7">
+    <se lang="uk" variant_id="0">Kai džasa mīru čāvoro?</se>
+    <se lang="lv" variant_id="1">— Kurp tu dodies, manu zēn?</se>
+    <weight variant_id="1">0,255</weight>
+  </para>
+  <para id="8">
+    <se lang="uk" variant_id="0">Džā an cudzuma ku mu kak, dova si dūr, - čāvu phenela.</se>
+    <se lang="lv" variant_id="1">— Pie sava tēvoča svešumā, tālā zemē, — puisis atteica.</se>
+    <weight variant_id="1">0,279545</weight>
+  </para>
+  <para id="9">
+    <se lang="uk" variant_id="0">Šun, toge me džā tusa khetane!</se>
+    <se lang="lv" variant_id="1">— Vadzi, tad es iešu tev līdzi!</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="10">
+    <se lang="uk" variant_id="0">Kana sāre duj gine dūredīr – čāvu pu greste. Bibrozdakīru pīrenca.</se>
+    <se lang="lv" variant_id="1">Nu abi ceļoja tālāk — puisis zirgā, Bezbardis kājām.</se>
+    <weight variant_id="1">0,235135</weight>
+  </para>
+  <para id="11">
+    <se lang="uk" variant_id="0">Jake jone nojaude an bāru, čemnu veš.</se>
+    <se lang="lv" variant_id="1">Pēc vairākām dienām viņi nonāca drūmā, brikšņainā mežā.</se>
+    <weight variant_id="1">-0,0153061</weight>
+  </para>
+  <para id="12">
+    <se lang="uk" variant_id="0">Čāvu kamja droven te pjel, te jone lačle hor hāning.</se>
+    <se lang="lv" variant_id="1">Puisim gribējās dzert, un pēdīgi viņi uzgāja dziļu aku.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="13">
+    <se lang="uk" variant_id="0">Čāvu pumangja:</se>
+    <se lang="lv" variant_id="1">Puisis lūdza:</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="14">
+    <se lang="uk" variant_id="0">De mange grauda pāņing!</se>
+    <se lang="lv" variant_id="1">— Pasniedz man mazliet ūdens!</se>
+    <weight variant_id="1">0,271429</weight>
+  </para>
+  <para id="15">
+    <se lang="uk" variant_id="0"></se>
+    <se lang="lv" variant_id="1">Taču Bezbardis attrauca:</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="16">
+    <se lang="uk" variant_id="0">Ļipin tele grestir te koro nopitut!</se>
+    <se lang="lv" variant_id="1">— Nokāp lejā pats un padzēries!</se>
+    <weight variant_id="1">0,255556</weight>
+  </para>
+  <para id="17">
+    <se lang="uk" variant_id="0">Bibrozdakīru dova feņu žakirdža.</se>
+    <se lang="lv" variant_id="1">Bezbardis to tik vien gaidīja.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="18">
+    <se lang="uk" variant_id="0">Niso bedu nadufinduj, čāvu gija an hāning.</se>
+    <se lang="lv" variant_id="1">Neko ļaunu nenojauzdams, puisis nokāpa akā.</se>
+    <weight variant_id="1">0,283784</weight>
+  </para>
+  <para id="19">
+    <se lang="uk" variant_id="0">Ne kedi jov noko kamja te pērel opre, Bibrozdakīru aizkerdža lūka te aizkerdža čāves an du hāning.</se>
+    <se lang="lv" variant_id="1">Bet, kad viņš gribēja tikt atkal augšā, Bezbārdis aizcirta lūku un iesprostoja puisi akā.</se>
+    <weight variant_id="1">0,276623</weight>
+  </para>
+  <para id="20">
+    <se lang="uk" variant_id="0">Čāvu mangja mi mukhel les te jāl auri hāningatir, ne Bibrozdakīru feņu nosaņdžape – dasav kēribe jov nima mi nadufin.</se>
+    <se lang="lv" variant_id="1">Puisis lūdzās, lai laižot jele ārā, bet Bezbārdis tikai pasmējās — tas Šim nenākot ne prātā.</se>
+    <weight variant_id="1">0,395701</weight>
+  </para>
+  <para id="21">
+    <se lang="uk" variant_id="0">Čāvu mangjape gan jake, gan visāde, bet sāru sis darmes.</se>
+    <se lang="lv" variant_id="1">Puisis lūdzās gan šā, gan tā, bet viss velti, puisis nokāpa akā.</se>
+    <weight variant_id="1">1,08068</weight>
+  </para>
+  <para id="22">
+    <se lang="uk" variant_id="0">Vaso tu man nakames te mukhes auri?</se>
+    <se lang="lv" variant_id="1">— Kāpēc tad tu negribi laist mani ārā?</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="23">
+    <se lang="uk" variant_id="0">Me tut mukhā auri dārig feņu jekh zarakirbnasa – ja tu jačesa ku me kalpus.</se>
+    <se lang="lv" variant_id="1">— Es tevi palaidīšu brīvībā tikai ar vienu norunu — ja tu salīgsi pie manis par kalpu.</se>
+    <weight variant_id="1">0,631452</weight>
+  </para>
+  <para id="24">
+    <se lang="uk" variant_id="0">Me jovā hulaj te trādā pu ti greste, bet tu džasa pīrenca.</se>
+    <se lang="lv" variant_id="1">Es būšu kungs un jāšu tavā zirgā, bet tu iesi kājām.</se>
+    <weight variant_id="1">0,765116</weight>
+  </para>
+  <para id="25">
+    <se lang="uk" variant_id="0">Čāvu nosaulahadža, ki jake jāla – jov nadžala nikoneske te kalpin, te vaš dova naphenela ni jekh lav nikoneske, pat toge ki Bibrozdakīru merla.</se>
+    <se lang="lv" variant_id="1">Puisis nozvērējās, ka tā arī būšot — viņš nelīgšot nekādā citā darbā un par notikušo nebildīšot nevienam ne pušplēsta vārda, pat ja Bezbārdis nomirtu.</se>
+    <weight variant_id="1">0,402645</weight>
+  </para>
+  <para id="26">
+    <se lang="uk" variant_id="0">Bet, ja čāvu kokoro merla te noko dolela dzīviba, toge feņu jov vaštuvela sāru te viphenel.</se>
+    <se lang="lv" variant_id="1">Bet, ja puisis pats nomiršot un atkal atgūšot dzīvību, tad gan drīkstēšot visu izpaus.</se>
+    <weight variant_id="1">0,0946524</weight>
+  </para>
+  <para id="27">
+    <se lang="uk" variant_id="0">„Dava ože nikidi najāla,”nodufiņdža Bibrozdakīru.</se>
+    <se lang="lv" variant_id="1">«Tas jau nu nemūžam nenotiks,» nodomāja Bezbārdis.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="28">
+    <se lang="uk" variant_id="0">Jake noko jone sāre duj gine dūredīr – Bibrozdakīru si hulaj, ne romanu čāvu si lesku kalpus.</se>
+    <se lang="lv" variant_id="1">Tā nu abi atkal devās ceļā — Bezbārdis kā kungs, bet bagātā vīra brā|adēls kā viņa kalps.</se>
+    <weight variant_id="1">0,283784</weight>
+  </para>
+  <para id="29">
+    <se lang="uk" variant_id="0">Jone atjaude ku lesku kak, kraļis.</se>
+    <se lang="lv" variant_id="1">Pēdīgi viņi nonāca pie tēvoča, ķeizara.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="30">
+    <se lang="uk" variant_id="0">Pušuņdža ki jauja leski špalesku čāvu, kraļis gija auri les te zažakirel mūzikasa te sāri peski voiskasa.</se>
+    <se lang="lv" variant_id="1">Izdzirdējis par brāļadēla ierašanos, ķeizars izgāja to sagaidīt ar mūziku un visu savu karaspēku.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="31">
+    <se lang="uk" variant_id="0">So pašedīr Bibrozdakīru jauja ku kraļis, jo butedīr trādija peski kalpus – kēr dova, vikēr dova! – jov strahadija ki čāvu sāru viphenela peski kakeske.</se>
+    <se lang="lv" variant_id="1">Jo tuvāk Bezbārdis nāca ķeizaram, jo vairāk trenkāja savu kalpu — izdari to, izdari šito! — baidīdamies, ka pusis visu izstāstīs tēvocim.</se>
+    <weight variant_id="1">0,40223</weight>
+  </para>
+  <para id="32">
+    <se lang="uk" variant_id="0">Te zarakhel peski cipa, Bibrozdakīru čudža čāveske mi atjanel pherdu urden čār.</se>
+    <se lang="lv" variant_id="1">Lai glābtu savu ādu, Bezbārdis lika puisim atvest pilnu ori zaja siena.</se>
+    <weight variant_id="1">0,260656</weight>
+  </para>
+  <para id="33">
+    <se lang="uk" variant_id="0">Ne da kēribe so jov čudža leske mi vikērel naštija te videlpes – rudeņakīru zaļu čār butedīr nazarodesa.</se>
+    <se lang="lv" variant_id="1">Taču so pavēli izpildīt nebija iespējams — rudenī sienu vairs nesameklēsi.</se>
+    <weight variant_id="1">0,443846</weight>
+  </para>
+  <para id="34">
+    <se lang="uk" variant_id="0">Bet so vašti te kēres, - čāvu dija andre gres an urden te gija an drom, rovinduj: „Kaj me te lav čār?”</se>
+    <se lang="lv" variant_id="1">Bet, ko lai dara, — puisis iejūdza orē zirgu un laidās ceļā, gauži raudādams: kur gan ņemt sienu?</se>
+    <weight variant_id="1">0,296296</weight>
+  </para>
+  <para id="35">
+    <se lang="uk" variant_id="0">Daj ku jov pielidiņdža tiknu čīrikloro te bučela:</se>
+    <se lang="lv" variant_id="1">Te pie viņa, tik noskumuša, pielidoja mazs putniņš un vaicāja:</se>
+    <weight variant_id="1">0,223256</weight>
+  </para>
+  <para id="36">
+    <se lang="uk" variant_id="0">So si tutir, čāvoro?</se>
+    <se lang="lv" variant_id="1">— Kas tad tev lēcies, puisīt?</se>
+    <weight variant_id="1">0,183333</weight>
+  </para>
+  <para id="37">
+    <se lang="uk" variant_id="0">Vaso tu rovesa?</se>
+    <se lang="lv" variant_id="1">Kālab tu raudi?</se>
+    <weight variant_id="1">1,05</weight>
+  </para>
+  <para id="38">
+    <se lang="uk" variant_id="0">Čāvu vipheņdža čīrikloreske, so kerdžape.</se>
+    <se lang="lv" variant_id="1">Puisis izstāstīja putniņam, kas noticis.</se>
+    <weight variant_id="1">0,291892</weight>
+  </para>
+  <para id="39">
+    <se lang="uk" variant_id="0">Nastrahadžu, me sāru vikērā an tu štetus.</se>
+    <se lang="lv" variant_id="1">— Nebaidies, es visu izdarīšu tavā vietā.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="40">
+    <se lang="uk" variant_id="0">Kāmēr čāvu sis pašlu, čār ože sis pherdu urden.</se>
+    <se lang="lv" variant_id="1">Kamēr puisis gulēja, ore pildījās ar sienu.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="41">
+    <se lang="uk" variant_id="0">Bāre hotendir, čāvu kana vaštija te jāl pāle ku Bibrozdakīru.</se>
+    <se lang="lv" variant_id="1">Priekā starodams, viņš nu varēja atgriezties pie Bezbārža.</se>
+    <weight variant_id="1">0,294231</weight>
+  </para>
+  <para id="42">
+    <se lang="uk" variant_id="0">Kraļis nodživindžape pal da nadikhli kalpuski buti, dživiņdžape Bibrozdakīrestir, dija goli čāveske: „Murš san mučāvoro!”te ošto dija leske love vaš leski buti.</se>
+    <se lang="lv" variant_id="1">Ķeizars varen nobrīnījās par neparasto kalpu, neslēpa savu izbrīnu arī no Bezbārža, uzsauca puisim: «Braši, manu zēn!» un vēl bagātīgi atlīdzināja viņam par paveikto.</se>
+    <weight variant_id="1">0,291429</weight>
+  </para>
+  <para id="43">
+    <se lang="uk" variant_id="0">Bibrozdakīru pharadija holinendir, vašdova ki dasai dživus jov kokoro naštija te vikērel.</se>
+    <se lang="lv" variant_id="1">Bezbārdis vai plīsa no dusmām, jo pašam šādi brīnumi nebija pa spēkam.</se>
+    <weight variant_id="1">0,205</weight>
+  </para>
+  <para id="44">
+    <se lang="uk" variant_id="0">Toge jov noko lija te dufin, si sigedīr jov te pērel špīru kraļiski špaleski čāvestir.</se>
+    <se lang="lv" variant_id="1">Tāpēc viņš atkal sāka lauzīt galvu, kā drīzāk varētu tikt vaļā no ķeizara brāļadēla.</se>
+    <weight variant_id="1">0,295833</weight>
+  </para>
+  <para id="45">
+    <se lang="uk" variant_id="0">Jov kokoro lačedīr mardžasis tele čāves, ne nodufiņdža ošto visprobini vārčenedīr.</se>
+    <se lang="lv" variant_id="1">Vismīļāk pats būtu puisi nomaitājis, tomēr nolēma vēlreiz pamēģināt citādi.</se>
+    <weight variant_id="1">0,273134</weight>
+  </para>
+  <para id="46">
+    <se lang="uk" variant_id="0">Bibrozdakīru bičadža peski kalpus ku trin šukār čajorja, kones ošto nijek naštija te lačel, važdova ki jone sis trin bibahtale feji, pūķiski čaja.</se>
+    <se lang="lv" variant_id="1">Bezbārdis sūtīja savu kalpu pie trim daiļām meitenēm, kuras vēl neviens nebija spējis atrast, jo tās bija trīs ļaunas fejas, pūķu meitas.</se>
+    <weight variant_id="1">0,279487</weight>
+  </para>
+  <para id="47">
+    <se lang="uk" variant_id="0">Kalpuske kana čebadija te čorel tele jekh feja.</se>
+    <se lang="lv" variant_id="1">Kalpam nu vajadzēja nolaupīt vienu no fejām.</se>
+    <weight variant_id="1">0,284615</weight>
+  </para>
+  <para id="48">
+    <se lang="uk" variant_id="0">Čāvu gija auri piļatir te pu drom lača kirjen.</se>
+    <se lang="lv" variant_id="1">Puisis atstāja pili un ceļā sastapa skudras.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="49">
+    <se lang="uk" variant_id="0">Dola lestir bučena:</se>
+    <se lang="lv" variant_id="1">Tās vaicāja:</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="50">
+    <se lang="uk" variant_id="0">Kai tu jake džasa?</se>
+    <se lang="lv" variant_id="1">— Kurp tu tā iedams?</se>
+    <weight variant_id="1">0,88125</weight>
+  </para>
+  <para id="51">
+    <se lang="uk" variant_id="0">Mange čebi te atjanav vešengi feja.</se>
+    <se lang="lv" variant_id="1">— Man jāatved meža feja.</se>
+    <weight variant_id="1">0,657143</weight>
+  </para>
+  <para id="52">
+    <se lang="uk" variant_id="0">Kirjenge jača žaļ čāves te svaku dija leske peski spārņica, te phende.</se>
+    <se lang="lv" variant_id="1">Skudras iežēlojās par puisi un katra iedeva viņam pa spārniņam, sacīdamas:</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="53">
+    <se lang="uk" variant_id="0">Ja tuke variso čebisula, čurde da spārņici an jāg te phen, so kamesa.</se>
+    <se lang="lv" variant_id="1">— Ja tev kas būs vajadzīgs, iemet šos spārniņus ugunī un saki, ko vēlies.</se>
+    <weight variant_id="1">0,498768</weight>
+  </para>
+  <para id="54">
+    <se lang="uk" variant_id="0">Toge so kamesa te dova jāla.</se>
+    <se lang="lv" variant_id="1">Tad tava vēlēšanās piepildīsies.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="55">
+    <se lang="uk" variant_id="0">Čāvu trādija hāra, te lačapes ku Donavaki reka.</se>
+    <se lang="lv" variant_id="1">Puisis jāja un jāja, līdz nonāca pie pašas Donavas.</se>
+    <weight variant_id="1">0,278049</weight>
+  </para>
+  <para id="56">
+    <se lang="uk" variant_id="0">An šmiļči jov iedikhja bāre mačes.</se>
+    <se lang="lv" variant_id="1">Krasta smiltīs viņš pamanīja spirināmies lielu zivi.</se>
+    <weight variant_id="1">0,13</weight>
+  </para>
+  <para id="57">
+    <se lang="uk" variant_id="0">Maču les mangja:</se>
+    <se lang="lv" variant_id="1">Zivs lūdzās:</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="58">
+    <se lang="uk" variant_id="0">Millu čāvoro, čurde man pāle an pāņing, toge me tuke ni vikērā būt lačipen!</se>
+    <se lang="lv" variant_id="1">— Mīļo puisi, iemet mani atpakaļ ūdenī, tad arī es tev izdarīšu daudz laba!</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="59">
+    <se lang="uk" variant_id="0">Čāvu hadija opre mačes, čurdija an pāņing, te maču pupheņdžapes iedija leske dživarnu zvīņa.</se>
+    <se lang="lv" variant_id="1">Puisis pacēla zivi, iemeta to ūdenī, un zivs pateikdamās iedeva viņam brīnuma zvīņu.</se>
+    <weight variant_id="1">0,271233</weight>
+  </para>
+  <para id="60">
+    <se lang="uk" variant_id="0">Ja tuke variso čebisula, toge čurde feņu an jāg da zvīņa.</se>
+    <se lang="lv" variant_id="1">— Ja tev kas būs gauži vajadzīgs, tad iesvied tik ugunī šo zvīņu.</se>
+    <weight variant_id="1">0,5125</weight>
+  </para>
+  <para id="61">
+    <se lang="uk" variant_id="0">Te me tuke zāra pumožinā!</se>
+    <se lang="lv" variant_id="1">Es acumirklī nākšu tev palīgā.</se>
+    <weight variant_id="1">0,231818</weight>
+  </para>
+  <para id="62">
+    <se lang="uk" variant_id="0">Čāvu trādija dūredīr te nojauja ku šukār čajorja. Jekh kana feņu jauja auri pūķiski piļatir te, dživinduj, dija goli:</se>
+    <se lang="lv" variant_id="1">Puisis jāja tālāk un pēdīgi nonāca pie daiļajām meitenēm, Viena no tām tobrīd iznāca no pūķa pils un, pār nemēru izbrīnījusies, sauca:</se>
+    <weight variant_id="1">-0,0176471</weight>
+  </para>
+  <para id="63">
+    <se lang="uk" variant_id="0">So tu daj rodesa, čāvu?</se>
+    <se lang="lv" variant_id="1">— Ko tad tu te meklē, puis?</se>
+    <weight variant_id="1">0,77</weight>
+  </para>
+  <para id="64">
+    <se lang="uk" variant_id="0">Jaujum dai, te janav tut khēre te čebi tuke te jās mi romni!</se>
+    <se lang="lv" variant_id="1">— Esmu ieradies, lai pārvestu tevi sev par sievu!</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="65">
+    <se lang="uk" variant_id="0">Man tu nikaj našti te aizlidžas.</se>
+    <se lang="lv" variant_id="1">— Mani tu nekur nevari aizvest.</se>
+    <weight variant_id="1">0,71746</weight>
+  </para>
+  <para id="66">
+    <se lang="uk" variant_id="0">Bet – terdžu!</se>
+    <se lang="lv" variant_id="1">Bet — pag!</se>
+    <weight variant_id="1">0,95</weight>
+  </para>
+  <para id="67">
+    <se lang="uk" variant_id="0">Me dā tuke duj uzdevumi, te, ki dova vikēresa, toge javā tīri.Mange si spīķeris, kais i khetene sajaukta visāda graudi.</se>
+    <se lang="lv" variant_id="1">Es došu tev divus uzdevumus, un, ja tiksi ar tiem galā, tad piederēšu tev. Man ir spīķeris, kur kopā sajaukti kvieši, kukurūza un mieži.</se>
+    <weight variant_id="1">0,00051458</weight>
+  </para>
+  <para id="68">
+    <se lang="uk" variant_id="0">Ja vaštuvesa te atkedes svaku peske, te toge začuves si lenge čeb te jān, toge džā tusa khetene.</se>
+    <se lang="lv" variant_id="1">Ja spēsi nodalīt visus trīs katru par sevi un nobērt atsevišķi, tad iešu tev līdzi.</se>
+    <weight variant_id="1">0,444643</weight>
+  </para>
+  <para id="69">
+    <se lang="uk" variant_id="0">Čāvu čorahanes tirdija auri kirjengi spārniņi, te čurdija an jāg – te dikta! An do samu brīža zajaude kirja si kālu boliben.</se>
+    <se lang="lv" variant_id="1">Te puisis paslepen izvilka skudras spārniņu, iemeta to ugunī — un paskat! — to pašu brīdi sanāca skudras kā melna debess.</se>
+    <weight variant_id="1">-0,00588235</weight>
+  </para>
+  <para id="70">
+    <se lang="uk" variant_id="0">Čāvu lenge vipheņdža, ki da rat sāre graudi an spīķeris čebi nodaļinen svaku peske te čebi len te zaberinen an trin kaudzi.</se>
+    <se lang="lv" variant_id="1">Puisis tām pastāstīja, ka šonakt visi graudi spīķerī jānodalot katrs par sevi un jānoberot trijās kaudzēs.</se>
+    <weight variant_id="1">0,444213</weight>
+  </para>
+  <para id="71">
+    <se lang="uk" variant_id="0">Kana sis so te dikhen, so kirja line te kēren , cela barenca line te keden khetene graudi te peski buti jone pukerde.</se>
+    <se lang="lv" variant_id="1">Nu tik bija ko redzēt, kad skudras drūzmu drūzmām čakli nesa kopā graudiņu pa graudiņam, ka ņudzēja vien.</se>
+    <weight variant_id="1">0,276404</weight>
+  </para>
+  <para id="72">
+    <se lang="uk" variant_id="0">Tašarlatir ki čāvu ušča pre, sāru sis ože pukerdu.</se>
+    <se lang="lv" variant_id="1">Rīta agrumā, kad puisis pamodās, darbs bija padarīts.</se>
+    <weight variant_id="1">0,272093</weight>
+  </para>
+  <para id="73">
+    <se lang="uk" variant_id="0">Čajori dova si pudikhja, pheņdža:</se>
+    <se lang="lv" variant_id="1">Meitene, to redzēdama, sacīja:</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="74">
+    <se lang="uk" variant_id="0">Lačes dova tuke vidijape.</se>
+    <se lang="lv" variant_id="1">— Vareni, tas tev izdevās.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="75">
+    <se lang="uk" variant_id="0">Kana tuke jāla ošto jekh kēriben te vikēres.</se>
+    <se lang="lv" variant_id="1">Še būs vēl viens uzdevums.</se>
+    <weight variant_id="1">0,104348</weight>
+  </para>
+  <para id="76">
+    <se lang="uk" variant_id="0">Mesi sumas tikni, trādās pur jūra te vizinauman, te jekh molos an jūra peija andre mi angrusti.</se>
+    <se lang="lv" variant_id="1">Maza būdama, es mēdzu braukt jūrā vizināties, un reiz šādā braucienā ūdenī iekrita mans gredzens.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="77">
+    <se lang="uk" variant_id="0">Ja tu du angrusti lačesa, toge čačunes džā tusa khetene.</se>
+    <se lang="lv" variant_id="1">Ja tu to atradīsi, tad no tiesas iešu tev līdzi.</se>
+    <weight variant_id="1">0,785455</weight>
+  </para>
+  <para id="78">
+    <se lang="uk" variant_id="0">Pušuņdža so leske čebi te kērel , čāvu atripirdža zvīņa, so dija leske maču.</se>
+    <se lang="lv" variant_id="1">Padzirdis, kas darāms, puisis atcerējās zvīņu, ko bija iedevusi zivs.</se>
+    <weight variant_id="1">0,285246</weight>
+  </para>
+  <para id="79">
+    <se lang="uk" variant_id="0">Jov čurdija zvīņa an jāg, te maču purazam sis paše.</se>
+    <se lang="lv" variant_id="1">Viņš iesvieda zvīņu ugunī, un zivs acumirklī bija klāt.</se>
+    <weight variant_id="1">0,265116</weight>
+  </para>
+  <para id="80">
+    <se lang="uk" variant_id="0">Maču virodija pur sāru jūraku dibenus, rodija te rodija, bet pu beigi lača da angrusti te čudža an čāvesku vast.</se>
+    <se lang="lv" variant_id="1">Zivs izmeklējās pa visu jūras dibenu, meklēja un meklēja, līdz beidzot atrada gredzenu un ielika to puisim plaukstā.</se>
+    <weight variant_id="1">0,280851</weight>
+  </para>
+  <para id="81">
+    <se lang="uk" variant_id="0">Kana čāvu si balval sige lačape ku šukār čajori te dija lake angrusti.</se>
+    <se lang="lv" variant_id="1">Nu viņš kā vēja spārniem steidzās pie daiļās meitenes un pasniedza tai gredzenu.</se>
+    <weight variant_id="1">0,249153</weight>
+  </para>
+  <para id="82">
+    <se lang="uk" variant_id="0">Dai si do angrusti.</se>
+    <se lang="lv" variant_id="1">— Te būs gredzens.</se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="83">
+    <se lang="uk" variant_id="0">Kana me džā tusa khetene, čajori pheņdža, te sāre duj gine an drom.</se>
+    <se lang="lv" variant_id="1">— Tagad es iešu tev līdzi, — meitene bija ar mieru, un abi devās ceļā.</se>
+    <weight variant_id="1">0,294643</weight>
+  </para>
+  <para id="84">
+    <se lang="uk" variant_id="0">Bibrozdakīru bāre dživustir te strahendir naštija te purakirel, dikhja ki da kēribe čāveske ni vidijape.</se>
+    <se lang="lv" variant_id="1">Bezbārdis aiz brīnumiem un izbīļa vai valodu zaudēja, redzēdams, ka varoņdarbs puisim izdevies arī šoreiz.</se>
+    <weight variant_id="1">0,293407</weight>
+  </para>
+  <para id="85">
+    <se lang="uk" variant_id="0">So kana leske sis te kērel, si te pērel špīru da čāvestir?</se>
+    <se lang="lv" variant_id="1">Ko nu viņam bija darīt, lai tiktu vajā no neciešamā un bīstamā sāncenša?</se>
+    <weight variant_id="1">0,21875</weight>
+  </para>
+  <para id="86">
+    <se lang="uk" variant_id="0">Jov holinatir jača sāru zilu, Bibrozdakīru pieuštija pu pīre, te dija duj moli čāveske pur lesku muj, ne dija fardes. Toge tirdija auri kurtala te mardža les tele, te čurdija les mūles auri.</se>
+    <se lang="lv" variant_id="1">Zils aiz dusmām, Bezbārdis pielēca kājās, iecirta puisim divas briesmīgas pļaukas, tad izrāva zobenu un nogalināja viņu, bet līķi aizmeta prom.</se>
+    <weight variant_id="1">-0,0378788</weight>
+  </para>
+  <para id="87">
+    <se lang="uk" variant_id="0">Ne čajori dova sāru dikhja.</se>
+    <se lang="lv" variant_id="1">Taču meitene bija to redzējusi.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="88">
+    <se lang="uk" variant_id="0">Joj zakedija sāre da čāveski kokali, noko začudža len khetene, jake si jone sis, aprādža džīde pāņingesa, te čāvu – uštija pre te phenela:</se>
+    <se lang="lv" variant_id="1">Viņa savāca visus kaulus, atkal salika tos kopā, kā bijuši, apslacīja ar dzīvības ūdeni, un paskat vien — puisis piecēlās un noteica:</se>
+    <weight variant_id="1">0,292035</weight>
+  </para>
+  <para id="89">
+    <se lang="uk" variant_id="0">Pu mande jauja pre dasai bār te phāri lindra.</se>
+    <se lang="lv" variant_id="1">— Ak, man bija uznācis tik dziļš, smags miegs.</se>
+    <weight variant_id="1">0,292105</weight>
+  </para>
+  <para id="90">
+    <se lang="uk" variant_id="0">Tu nasanas pašlu, - čajori phenela.</se>
+    <se lang="lv" variant_id="1">— Tu negulēji vis, — meitene stāstīja.</se>
+    <weight variant_id="1">0,709217</weight>
+  </para>
+  <para id="91">
+    <se lang="uk" variant_id="0">Tut mardža tele Bibrozdakīru, te me tut noko atdžīdžakirdžum.</se>
+    <se lang="lv" variant_id="1">— Tevi nonāvēja Bezbārdis, un es tevi atkal atdzīvināju.</se>
+    <weight variant_id="1">0,269388</weight>
+  </para>
+  <para id="92">
+    <se lang="uk" variant_id="0">Dikhesa kana! ~~~ – čāvu phenela, aizgija ku pesku kak te sāru leske vipheņdža.</se>
+    <se lang="lv" variant_id="1">— Tad redz, kā! — puisis iesaucās, aizgāja pie sava tēvoča un visu viņam izpauda.</se>
+    <weight variant_id="1">-0,00454545</weight>
+  </para>
+  <para id="93">
+    <se lang="uk" variant_id="0">Mu kak, ti špalesku čāvu sum me na do bibrozdakīru mānuš, kones tu dai dikhesa.</se>
+    <se lang="lv" variant_id="1">— Tēvoc, tavs brāļadēls esmu es un nevis šis bezbārdainais vīrs, ko tu te redzi.</se>
+    <weight variant_id="1">0,482955</weight>
+  </para>
+  <para id="94">
+    <se lang="uk" variant_id="0">Jov man kerdža andre an vešeski hāning te čudža mi lav saulah, ki vaš hohaibe me naphenā nikoneske ni jekh lav.</se>
+    <se lang="lv" variant_id="1">Viņš mani iesprostoja meža akā un piespieda zvērēt, ka par krāpšanu nebildīšu nevienam ne vārda.</se>
+    <weight variant_id="1">0,26747</weight>
+  </para>
+  <para id="95">
+    <se lang="uk" variant_id="0">Vārčanes jov man namukhjasis špīru.</se>
+    <se lang="lv" variant_id="1">Citādi viņš nebūtu laidis mani vaļā.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="96">
+    <se lang="uk" variant_id="0">Me saulahadžum te napheņdžum nikoneske nijekh lav žinku mi šmerč, ne kana me vašti phagirav saulah vašdova ki me sumas meijnu, ne da čajori man noko atdžīdžakirdža.</se>
+    <se lang="lv" variant_id="1">Es nozvērējos un arī neteicu nevienam ne vārda līdz pat savai nāvei, taču tagad man ir brīv lauzt zvērestu, jo es biju miris, bet šī meitene mani atkal atdzīvināja.</se>
+    <weight variant_id="1">0,509906</weight>
+  </para>
+  <para id="97">
+    <se lang="uk" variant_id="0">Te čāvu pusikadža pu fejate, kones jaņdža Bibrozdakīreske.</se>
+    <se lang="lv" variant_id="1">Un puisis pamāja uz feju, kuru bija atvedis Bezbārdim.</se>
+    <weight variant_id="1">0,268085</weight>
+  </para>
+  <para id="98">
+    <se lang="uk" variant_id="0">Kedi kraļis uzdžiņdža, kon si lesku čačunu špalesku čāvu, apdija les capla te nočamudija čāves, hotendir nadžiņdža kaj te čuvelpe.</se>
+    <se lang="lv" variant_id="1">Kad ķeizars uzzināja, kurš ir īstais brāļadēls, tad apkampa un nomutēja puisi, aiz prieka nezinādams, kur likties.</se>
+    <weight variant_id="1">0,260606</weight>
+  </para>
+  <para id="99">
+    <se lang="uk" variant_id="0">Toge pu leste jauja pre bāri holin so vikerdža Bibrozdakīru,- kraļis dija capla kurtala te začingirdža da nelietis pu šmati.</se>
+    <se lang="lv" variant_id="1">Tad viņu sagrāba nāves dusmas par Bezbārža izrīcību, — ķeizars paķēra zobenu un sacirta nelieti gabalu gabalos.</se>
+    <weight variant_id="1">0,26875</weight>
+  </para>
+  <para id="100">
+    <se lang="uk" variant_id="0">Ne čāveske jov atdija čajorja romņake, te do samu dīs jone uzkerde bāre kāzi.</se>
+    <se lang="lv" variant_id="1">Bet puisim viņš atdeva meiteni par sievu, un to pašu dienu viņi svinēja lielas, krāšņas kāzas.</se>
+    <weight variant_id="1">0,230769</weight>
+  </para>
+  <para id="101">
+    <se lang="uk" variant_id="0">Čāvu jača te dzīvin ku pesku kak, jača kraļis te valdiņdža žinku peski šmerč.</se>
+    <se lang="lv" variant_id="1">Puisis palika dzīvot pie sava tēvoča, kļuva par ķeizaru un valdīja līdz pat nāvei.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+</body>
+</html>

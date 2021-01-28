@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="uk" variant_id="0">Dživdža peske čororo čāvoro, kon gija de svetos te sikļul peske savi buti.</se>
+    <se lang="lv" variant_id="1">Reiz dzīvoja nabadzīgs puisēns, kurš devās meklēt sev amata meistaru.</se>
+    <weight variant_id="1">0,290164</weight>
+  </para>
+  <para id="1">
+    <se lang="uk" variant_id="0">Gija jov dromesa i zadija jov po drom rašas.</se>
+    <se lang="lv" variant_id="1">Ceļā viņš sastapa priesteri.</se>
+    <weight variant_id="1">0,173077</weight>
+  </para>
+  <para id="2">
+    <se lang="uk" variant_id="0">Kaj tu džasa, mīro čāvo?</se>
+    <se lang="lv" variant_id="1">Kurp tu dodies, manu zēn?</se>
+    <weight variant_id="1">0,785714</weight>
+  </para>
+  <para id="3">
+    <se lang="uk" variant_id="0">Kamav te lačav dasave mānušes kon sikļakirla man savo promislos.</se>
+    <se lang="lv" variant_id="1">Gribu atrast kādu amata meistaru.</se>
+    <weight variant_id="1">0,04</weight>
+  </para>
+  <para id="4">
+    <se lang="uk" variant_id="0">Šun, čāvoro, ke me tuke lathelapes štetos.</se>
+    <se lang="lv" variant_id="1">Klau, zēn, pie manis tev atradīsies vieta.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="5">
+    <se lang="uk" variant_id="0">Mande uže si dasavo čāvoro, sir tu.</se>
+    <se lang="lv" variant_id="1">Man ir vel viens tāds pats puika kā tu.</se>
+    <weight variant_id="1">0,655</weight>
+  </para>
+  <para id="6">
+    <se lang="uk" variant_id="0">Mande si šov gurve i plugos.</se>
+    <se lang="lv" variant_id="1">Un vēl man ir seši vērši un arkls.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="7">
+    <se lang="uk" variant_id="0">Jav ke me po buti, moginesa te pahines mīri phuj.</se>
+    <se lang="lv" variant_id="1">Salīgsti pie manis, varēsi apart un apstrādāt lauku.</se>
+    <weight variant_id="1">0,263415</weight>
+  </para>
+  <para id="8">
+    <se lang="uk" variant_id="0">Čāvoro gija lesa khetane, lija plugos, dija andre gurven, gija pe felda i pahiņdža duj divesa štetostir.</se>
+    <se lang="lv" variant_id="1">Zēns aizgāja viņam līdzi, paņēma arklu, iejūdza vēršus, devās uz tīrumu un ara divas dienas no vietas.</se>
+    <weight variant_id="1">0,293103</weight>
+  </para>
+  <para id="9">
+    <se lang="uk" variant_id="0">Pašil gine Baht i Godi. I Godi phenel Bahčake:</se>
+    <se lang="lv" variant_id="1">Turpat garām gāja Laime un Saprāts, un Saprāts teica Laimei:</se>
+    <weight variant_id="1">-0,0402439</weight>
+  </para>
+  <para id="10">
+    <se lang="uk" variant_id="0">Dža dre leste!</se>
+    <se lang="lv" variant_id="1">— Ej viņā iekšā!</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="11">
+    <se lang="uk" variant_id="0">Ne Baht nakamja te džal.</se>
+    <se lang="lv" variant_id="1">Bet Laime nebija ar mieru.</se>
+    <weight variant_id="1">0,271429</weight>
+  </para>
+  <para id="12">
+    <se lang="uk" variant_id="0">I dre čavoreste gija andre Godi.</se>
+    <se lang="lv" variant_id="1">Tad zēnā iegāja Saprāts.</se>
+    <weight variant_id="1">0,218182</weight>
+  </para>
+  <para id="13">
+    <se lang="uk" variant_id="0">Si dava vikerdžapes, de do samo pora, čavoro čurdija plugos, čurdija tele peskire pirendir teraha so dija leske rašaj i dija te nāšel feldatir.</se>
+    <se lang="lv" variant_id="1">Tai pašā mirklī zēns pameta arklu, nosvieda savas opankas1 un laidās bēgt prom pa tīrumu.</se>
+    <weight variant_id="1">0,122368</weight>
+  </para>
+  <para id="14">
+    <se lang="uk" variant_id="0">Ne vavir čavoro uhča pal leste palal.</se>
+    <se lang="lv" variant_id="1">Bet otrais puika joza viņam pakaļ.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="15">
+    <se lang="uk" variant_id="0">Na nāš, pšaloro, na nāš krig!</se>
+    <se lang="lv" variant_id="1">Nebēdz, brālīt, nebēdz prom!</se>
+    <weight variant_id="1">0,288</weight>
+  </para>
+  <para id="16">
+    <se lang="uk" variant_id="0">Otjač, me kada buti na kērava!</se>
+    <se lang="lv" variant_id="1">Ak, liec man mieru ar to aršanu!</se>
+    <weight variant_id="1">0,288462</weight>
+  </para>
+  <para id="17">
+    <se lang="uk" variant_id="0">Čāvoro javja de jekh foros, ne da foros sis dasavo bāro, sir Buharesta.</se>
+    <se lang="lv" variant_id="1">Zēns nonāca kādā pilsētā, kas bija tik liela kā Bukareste.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="18">
+    <se lang="uk" variant_id="0">Lesko drom gija pašil kaj kerna zigarja.</se>
+    <se lang="lv" variant_id="1">Tur viņam gadījās iet garām pulksteņdarbnīcai.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="19">
+    <se lang="uk" variant_id="0">Jov podikhja andre i udikhja čāvoren, kon kerde buča ku zigarjengīro.</se>
+    <se lang="lv" variant_id="1">Viņš ieskatījās darbnīcā un ieraudzīja puikas, kuri strādāja pie pulksteņmeistara.</se>
+    <weight variant_id="1">0,23</weight>
+  </para>
+  <para id="20">
+    <se lang="uk" variant_id="0">Jekh bučitko lestir phučela:</se>
+    <se lang="lv" variant_id="1">Kāds no zeļļiem viņam uzsauca:</se>
+    <weight variant_id="1">0,288462</weight>
+  </para>
+  <para id="21">
+    <se lang="uk" variant_id="0">So tu san terdo i dikhesa?</se>
+    <se lang="lv" variant_id="1">Ko tu tur stāvi un ķīķerē?</se>
+    <weight variant_id="1">0,728571</weight>
+  </para>
+  <para id="22">
+    <se lang="uk" variant_id="0">Čāvoro otpheņdža:</se>
+    <se lang="lv" variant_id="1">Zēns atbildēja:</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="23">
+    <se lang="uk" variant_id="0">Kamel pes, i som terdo.</se>
+    <se lang="lv" variant_id="1">Patīk, un stāvu.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="24">
+    <se lang="uk" variant_id="0">Dikhav, so tume sbit siges kēren buti.</se>
+    <se lang="lv" variant_id="1">Skatos, cik veikli jūs strādājat.</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="25">
+    <se lang="uk" variant_id="0">Javja hulaj i phenel:</se>
+    <se lang="lv" variant_id="1">Te atnāca saimnieks un sacīja:</se>
+    <weight variant_id="1">0,173684</weight>
+  </para>
+  <para id="26">
+    <se lang="uk" variant_id="0">Šun, čāvoro, jav ke me pe buti, po trin berš, pal da pora tu sāro visikļosa i javesa dasavo zigarjengīro, sir me!</se>
+    <se lang="lv" variant_id="1">— Ei, puis, salīgsti pie manis uz trim gadiem, tad tu visu izmācīsies un būsi tāds pats meistars kā es!</se>
+    <weight variant_id="1">0,414622</weight>
+  </para>
+  <para id="27">
+    <se lang="uk" variant_id="0">Jov leske pripheņdža :</se>
+    <se lang="lv" variant_id="1">Vēl viņš piemetināja:</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="28">
+    <se lang="uk" variant_id="0">- Pervo berš tu lesa te čingires kašta, podrikiresa jāg de bova, bešesa ke skamind i lesa te dikhes , sir kerna buti vāvira i lesa te sikļos.</se>
+    <se lang="lv" variant_id="1">— Pirmajā gadā tu vienīgi skaldīsi malku, kurināsi krāsni, sēdēsi pie galda un skatīsies, kā strādā citi zeļļi.</se>
+    <weight variant_id="1">0,394737</weight>
+  </para>
+  <para id="29">
+    <se lang="uk" variant_id="0">Ke ada zigarjengīro uže deš paņdž berš sis terdo kraļisko zigāris.</se>
+    <se lang="lv" variant_id="1">Pie šī pulksteņmeistara jau piecpadsmit gadu glabājās ķeizara pulkstenis.</se>
+    <weight variant_id="1">0,252632</weight>
+  </para>
+  <para id="30">
+    <se lang="uk" variant_id="0">Nikon les naštija te zakērel.</se>
+    <se lang="lv" variant_id="1">Neviens nemācēja to salabot.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="31">
+    <se lang="uk" variant_id="0">Dārig sis otjandle zigarjengīre i Parižostir i Venatir, ne te zkēren zigāris nikon lendir naštine.</se>
+    <se lang="lv" variant_id="1">Šurpu bija braukuši pulksteņmeistari gan no Parīzes, gan no Vīnes, taču salabot pulksteni nebija izdevies arī tiem.</se>
+    <weight variant_id="1">0,247059</weight>
+  </para>
+  <para id="32">
+    <se lang="uk" variant_id="0">Jekh dives kraļis pheņdža so otdela pāš phuj doleske, kon zalidžala zigāris.</se>
+    <se lang="lv" variant_id="1">Tad ķeizars paziņoja, ka atdošot pusi valsts tam, kurš iedarbināšot pulksteni.</se>
+    <weight variant_id="1">0,286364</weight>
+  </para>
+  <para id="33">
+    <se lang="uk" variant_id="0">Ne nikoneske dava na vidijape.</se>
+    <se lang="lv" variant_id="1">Tomēr nevienam tas neizdevās.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="34">
+    <se lang="uk" variant_id="0">An zigāris sis andre biš te štār giļa, i každo da jekh giļatir, so javelas kada zigāristir, kraļis jačelas svako jekh giļatir ternedir.</se>
+    <se lang="lv" variant_id="1">Pulkstenis prata spēlēt divdesmit četras dziesmas, un, kad tas spēlēja kādu no tām, ķeizars kļuva jaunāks.</se>
+    <weight variant_id="1">0,228261</weight>
+  </para>
+  <para id="35">
+    <se lang="uk" variant_id="0">Podjavja svenkos – Patradži.</se>
+    <se lang="lv" variant_id="1">Pienāca Lieldienas.</se>
+    <weight variant_id="1">0,189474</weight>
+  </para>
+  <para id="36">
+    <se lang="uk" variant_id="0">Zigarjengīro peskīre čāvenca gija pe khangiri, i khēre jača phūri phūrori i čāvoro.</se>
+    <se lang="lv" variant_id="1">Pulksteņmeistars ar saviem bērniem aizgāja uz baznīcu, un mājās palika tikai veca sieviņa un zēns.</se>
+    <weight variant_id="1">0,245833</weight>
+  </para>
+  <para id="37">
+    <se lang="uk" variant_id="0">Sir svako molo, jov čingirdža kašta, rakhja jāg i bova, pribešja ko skamind, te sikļol sir kerna buti zigarjengīre.</se>
+    <se lang="lv" variant_id="1">Kā parasti, viņš skaldīja malku, plēsa skalus un pēdīgi apsēdās pie galda, kur mēdza strādāt zeļļi.</se>
+    <weight variant_id="1">0,254118</weight>
+  </para>
+  <para id="38">
+    <se lang="uk" variant_id="0">Jov načudža paše peskire vasta daže ko samo tikno zigāritis.</se>
+    <se lang="lv" variant_id="1">Viņš nepieskārās ne vismazākajam pulkstentiņam.</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="39">
+    <se lang="uk" variant_id="0">Ne bāro zigāris lija ande peski vasta i čudža po skamind.</se>
+    <se lang="lv" variant_id="1">Toties lielo pulksteni viņš paņēma rokās un nolika uz galda.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="40">
+    <se lang="uk" variant_id="0">Čāvoro vilija zigāristir duj bolti, vimakhja len i čudža pāle de do samo štetos an zigāris – i kerdžapes džīvos! – zigāris lija te džal, gabadža sāre biš te štār giļa.</se>
+    <se lang="lv" variant_id="1">Zēns izskrūvēja no pulksteņa divas skrūves, nospodrināja tās, ielika atpakaļ vietā, un — tavu brīnumu! — pulkstenis atkal sāka iet un spēlēt savas divdesmit četras dziesmas.</se>
+    <weight variant_id="1">0,276087</weight>
+  </para>
+  <para id="41">
+    <se lang="uk" variant_id="0">Čāvoro piristrahadija, zagarudžape, ne mānuša pošunde zigāriski giļa, uhtine khangirjatir date</se>
+    <se lang="lv" variant_id="1">Zēns nobijies paslēpās, bet ļaudis, Izdzirduši pulksteņa dziesmas, steidzās no baznīcas šurp.</se>
+    <weight variant_id="1">0,292771</weight>
+  </para>
+  <para id="42">
+    <se lang="uk" variant_id="0">Priuhča khēre i zigarjengīro i phučja :</se>
+    <se lang="lv" variant_id="1">Mājās pārnāca arī pulksteņmeistars un noprasīja:</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="43">
+    <se lang="uk" variant_id="0">Daje, kon man jake lačes podrikirdža i počiņiņdža zigāris?</se>
+    <se lang="lv" variant_id="1">— Māt, kas man tik labi pakalpojis un salabojis pulksteni?</se>
+    <weight variant_id="1">0,594</weight>
+  </para>
+  <para id="44">
+    <se lang="uk" variant_id="0">Phūrori pheņdža:</se>
+    <se lang="lv" variant_id="1">Vecīte atbildēja:</se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="45">
+    <se lang="uk" variant_id="0">Daj nikon nasis, krome čāvoro pširdža trujal skamind.</se>
+    <se lang="lv" variant_id="1">— Neviena te nav bijis, tikai zēns tur staigāja gar galdu.</se>
+    <weight variant_id="1">0,287234</weight>
+  </para>
+  <para id="46">
+    <se lang="uk" variant_id="0">Zigarjengīro lija te rodel čāvores, lača les an grengi štala i opdija les capla, sāri zorjatir.</se>
+    <se lang="lv" variant_id="1">Meistars sāka zēnu meklēt, atrada viņu zirga redelēs un ap kampa, cik spēka.</se>
+    <weight variant_id="1">0,226154</weight>
+  </para>
+  <para id="47">
+    <se lang="uk" variant_id="0">Dava sanas tu, mīro čāvoro!</se>
+    <se lang="lv" variant_id="1">— Ak tad tu tas biji, manu zēn!</se>
+    <weight variant_id="1">0,2875</weight>
+  </para>
+  <para id="48">
+    <se lang="uk" variant_id="0">Tu san bāredir murš sir me.</se>
+    <se lang="lv" variant_id="1">Tu esi lielāks meistars par mani.</se>
+    <weight variant_id="1">0,650311</weight>
+  </para>
+  <para id="49">
+    <se lang="uk" variant_id="0">Me tuke načudžum nisavi bāri vņimaņija i čudžum tut pe Patradžin te čingires kašta!</se>
+    <se lang="lv" variant_id="1">Bet es tevi neturēju nekādā vērtē un liku Lieldienās skal dīt malku!</se>
+    <weight variant_id="1">0,232759</weight>
+  </para>
+  <para id="50">
+    <se lang="uk" variant_id="0">Kana lathnepes portnoji i zasude zigarjengīreske trin idži.</se>
+    <se lang="lv" variant_id="1">Nu ieradās skroderi un pašuva pulksteņmeistaram trīs tērpus.</se>
+    <weight variant_id="1">0,29434</weight>
+  </para>
+  <para id="51">
+    <se lang="uk" variant_id="0">Tašarlatir podtrādija kareta andre dine štār grenca.</se>
+    <se lang="lv" variant_id="1">Rīta agrumā piebrauca kariete ar četriem zirgiem.</se>
+    <weight variant_id="1">0,279545</weight>
+  </para>
+  <para id="52">
+    <se lang="uk" variant_id="0">Zigarjengīro lija zigāris i gija ke kraļis.</se>
+    <se lang="lv" variant_id="1">Pulksteņmeistars paņēma pulksteni un devās ceļā pie ķeizara.</se>
+    <weight variant_id="1">0,173684</weight>
+  </para>
+  <para id="53">
+    <se lang="uk" variant_id="0">Pušuņdža kraļis kadava nēvipen, leske sis bāri hota, jov vigija peskire filačinatir lija an vasta pesko zigāris i noko jača terno.</se>
+    <se lang="lv" variant_id="1">Padzirdējis priecīgo vēsti, ķeizars nokāpa lejā pa pils kāpnēm, satvēra savu pulksteni rokās un atkal kļuva jauns.</se>
+    <weight variant_id="1">0,263636</weight>
+  </para>
+  <para id="54">
+    <se lang="uk" variant_id="0">Jov pheņdža zigarjengīreske:</se>
+    <se lang="lv" variant_id="1">Tad viņš sacīja pulksteņmeistaram:</se>
+    <weight variant_id="1">0,244444</weight>
+  </para>
+  <para id="55">
+    <se lang="uk" variant_id="0">Jan ke me i doles, ko zakerdža miro zigāris!</se>
+    <se lang="lv" variant_id="1">— Atved pie manis arī to, kurš salaboja manu pulksteni!</se>
+    <weight variant_id="1">0,218919</weight>
+  </para>
+  <para id="56">
+    <se lang="uk" variant_id="0">Ne jov phenela:</se>
+    <se lang="lv" variant_id="1">Bet šis nu teiks:</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="57">
+    <se lang="uk" variant_id="0">Me kokoro les zakerdžom.</se>
+    <se lang="lv" variant_id="1">Es pats to salaboju.</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="58">
+    <se lang="uk" variant_id="0">Pal so hohaves, dava nasanas tu!</se>
+    <se lang="lv" variant_id="1">Ko niekus, tas vis nebiji tu.</se>
+    <weight variant_id="1">0,264</weight>
+  </para>
+  <para id="59">
+    <se lang="uk" variant_id="0">Dža i jan ke me doles, kon zakerdža zigāris!</se>
+    <se lang="lv" variant_id="1">Ej un atved pie manis to, kurš salabojis pulksteni!</se>
+    <weight variant_id="1">0,243243</weight>
+  </para>
+  <para id="60">
+    <se lang="uk" variant_id="0">Zigarjengīro gija i jaņdža ke kraļis čāvores.</se>
+    <se lang="lv" variant_id="1">Meistars aizgāja un atveda zēnu.</se>
+    <weight variant_id="1">0,186207</weight>
+  </para>
+  <para id="61">
+    <se lang="uk" variant_id="0">Kraļis leske phenel :</se>
+    <se lang="lv" variant_id="1">Ķeizars viņu uzrunāja:</se>
+    <weight variant_id="1">0,268421</weight>
+  </para>
+  <para id="62">
+    <se lang="uk" variant_id="0">Dža i le trin korzini, pherde saunakune lovenca i otde len zigarjengīreske.</se>
+    <se lang="lv" variant_id="1">— Ej paņem trīs grozus, pilnus ar dukātiem, un atdod tos pulksteņmeistaram.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="63">
+    <se lang="uk" variant_id="0">Ne zigarjengīreske kraļis pheņdža :</se>
+    <se lang="lv" variant_id="1">Bet meistaram pašam ķeizars sacīja:</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="64">
+    <se lang="uk" variant_id="0">Čāvores me tuke pāle nadava.</se>
+    <se lang="lv" variant_id="1">— Zēnu es tev atpakaļ nedošu.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="65">
+    <se lang="uk" variant_id="0">Svako berš me leske pleskirava deš tišči saunakune lovenca – mi podrakhel zigāris, feņu jov noko nalela te džal.</se>
+    <se lang="lv" variant_id="1">Katru gadu maksāšu viņam desmittūkstoš dukātu — lai pieskata pulksteni, ja nu tas atkal sabojājas.</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="66">
+    <se lang="uk" variant_id="0">Čāvoro jača ko kraļis cela dešu trin berša.</se>
+    <se lang="lv" variant_id="1">Zēns palika pie ķeizara veselus trīspadsmit gadus.</se>
+    <weight variant_id="1">0,235135</weight>
+  </para>
+  <para id="67">
+    <se lang="uk" variant_id="0">Kraļiske sis čaj i kana joj vibārija dasavi bāri, so vaštija te vidžal uže palo rom.</se>
+    <se lang="lv" variant_id="1">Ķeizaram bija meita, un nu tā jau bija izaugusi tik liela, ka varēja precēties.</se>
+    <weight variant_id="1">0,286567</weight>
+  </para>
+  <para id="68">
+    <se lang="uk" variant_id="0">Joj čiņdža lil i bičadža peski dādeske.</se>
+    <se lang="lv" variant_id="1">Viņa uzrakstīja vēstuli un iedeva to savam tēvam.</se>
+    <weight variant_id="1">0,220588</weight>
+  </para>
+  <para id="69">
+    <se lang="uk" variant_id="0">So doj sis čindlo?</se>
+    <se lang="lv" variant_id="1">Kas tur bija rakstīts?</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="70">
+    <se lang="uk" variant_id="0">„Dāde, me kēravape so me som ņemo i javava doleski romni, kon man začuvela te rakirav!”</se>
+    <se lang="lv" variant_id="1">«Tēvs, es izlikšos par mēmu un kļūšu par sievu tam, kurš piedabūs mani runāt.»</se>
+    <weight variant_id="1">0,268182</weight>
+  </para>
+  <para id="71">
+    <se lang="uk" variant_id="0">Kraļis vimukhja dasavi zan – kon vaštuvela te kērel so leski čaj javela te rakirel, dava dolela la romņake, ne kon dava namoginela te vikērel , doleske šēro tele čingirna.</se>
+    <se lang="lv" variant_id="1">Nu ķeizars izsludināja — kas varēšot piedabūt viņa meitu runāt, tas ņemšot viņu par sievu, bet, kurš to neiespēšot, tam galva nost.</se>
+    <weight variant_id="1">0,213514</weight>
+  </para>
+  <para id="72">
+    <se lang="uk" variant_id="0">Zajavdle būt terne čāve.</se>
+    <se lang="lv" variant_id="1">Ieradās daudz jaunekļu.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="73">
+    <se lang="uk" variant_id="0">Ne nikon naštija te kērel sop kraļiski čaj te zarakirel.</se>
+    <se lang="lv" variant_id="1">Tomēr neviens nepanāca, lai ķeizara meita sāk runāt.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="74">
+    <se lang="uk" variant_id="0">Kraļis len sāren umardža i butedīr najavja ņikon.</se>
+    <se lang="lv" variant_id="1">Ķeizars viņus visus nonāvēja, un nu nenāca vairs neviens.</se>
+    <weight variant_id="1">0,251163</weight>
+  </para>
+  <para id="75">
+    <se lang="uk" variant_id="0">Ne peski baht gija te probin i zigarjengīro romano čāvo i phenel :</se>
+    <se lang="lv" variant_id="1">Pēdīgi pie ķeizara atnāca pulksteņmeistara zellis un sacīja:</se>
+    <weight variant_id="1">0,294444</weight>
+  </para>
+  <para id="76">
+    <se lang="uk" variant_id="0">Kraļi, muk man te džav ki tiri čaj, me začuvava la te rakirel!</se>
+    <se lang="lv" variant_id="1">— Ķeizar, ļauj man aiziet pie savas meitas; es piedabūšu viņu runāt!</se>
+    <weight variant_id="1">0,489593</weight>
+  </para>
+  <para id="77">
+    <se lang="uk" variant_id="0">Vaš mange tu dža, ne tu džines so si čindlu an da lil, doj pu skamind?</se>
+    <se lang="lv" variant_id="1">Manis pēc ej, bet vai tu zini, kas rakstīts tai vēstulē tur uz galda?</se>
+    <weight variant_id="1">0,494643</weight>
+  </para>
+  <para id="78">
+    <se lang="uk" variant_id="0">Me lijom sovlah te čingirav tele šēro svakuneske, koneske dava na videlapes.</se>
+    <se lang="lv" variant_id="1">Esmu nozvērējies nogalināt katru, kam tas neizdosies.</se>
+    <weight variant_id="1">0,1875</weight>
+  </para>
+  <para id="79">
+    <se lang="uk" variant_id="0">Ne ki mange navidelapes, kraļi – tu vaštuvesa i miro šēro te čingires tele.</se>
+    <se lang="lv" variant_id="1">Ja man neizdosies, tad tu, ķeizar, varēsi nogalināt arī mani.</se>
+    <weight variant_id="1">0,243396</weight>
+  </para>
+  <para id="80">
+    <se lang="uk" variant_id="0">Ne ke tu jake jačes ke tire lava, dža, ne patom najavela rakirben.</se>
+    <se lang="lv" variant_id="1">— Kad nu tu tik stūrgalvīgi paliec pie sava, tad ej vien.</se>
+    <weight variant_id="1">0,479705</weight>
+  </para>
+  <para id="81">
+    <se lang="uk" variant_id="0">Čāvoro zahuridžapes de šukar idži i gija andre de kraļiske čaki štuba.</se>
+    <se lang="lv" variant_id="1">Puisis saposās skaistās drānās un iegāja princeses istabā.</se>
+    <weight variant_id="1">0,253846</weight>
+  </para>
+  <para id="82">
+    <se lang="uk" variant_id="0">Čajori variso visudža.</se>
+    <se lang="lv" variant_id="1">Meitene darbojās ar izšuvumu.</se>
+    <weight variant_id="1">0,214286</weight>
+  </para>
+  <para id="83">
+    <se lang="uk" variant_id="0">Čāvo dija pativ :</se>
+    <se lang="lv" variant_id="1">Puisis sveicināja:</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="84">
+    <se lang="uk" variant_id="0">Lačo dives!</se>
+    <se lang="lv" variant_id="1">— Labdien!</se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="85">
+    <se lang="uk" variant_id="0">Parikirav tut, zigarjengīro.</se>
+    <se lang="lv" variant_id="1">— Pateicos tev, pulksteņmeistar.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="86">
+    <se lang="uk" variant_id="0">Pribeš otphurdepes i poha.</se>
+    <se lang="lv" variant_id="1">Pasēdi vispirms, atpūties un paēd.</se>
+    <weight variant_id="1">0,2125</weight>
+  </para>
+  <para id="87">
+    <se lang="uk" variant_id="0">Sāre ka da lava jov vipheņdža kokoro i nabutka pobešja, kamja te udžal.</se>
+    <se lang="lv" variant_id="1">Visus šos vārdus viņš sacīja pats, un, brītiņu pasēdējis, taisījās prom.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="88">
+    <se lang="uk" variant_id="0">Jač bahtali, miro kham!</se>
+    <se lang="lv" variant_id="1">Ar labunakti, mans kroņlukturi!</se>
+    <weight variant_id="1">0,185714</weight>
+  </para>
+  <para id="89">
+    <se lang="uk" variant_id="0">Te javes bahtalo, zigarjengīro!</se>
+    <se lang="lv" variant_id="1">Lai tev labi klājas, pulksteņmeistar!</se>
+    <weight variant_id="1">0,248276</weight>
+  </para>
+  <para id="90">
+    <se lang="uk" variant_id="0">De vāvir dives beļveļe čāves khardža kraļis i kamja leske te čingirel šēro.</se>
+    <se lang="lv" variant_id="1">Otrā dienā pret vakaru puisi pasauca ķeizars un grasījās viņu nogalināt.</se>
+    <weight variant_id="1">0,295238</weight>
+  </para>
+  <para id="91">
+    <se lang="uk" variant_id="0">Ne čāvo mangjapes,</se>
+    <se lang="lv" variant_id="1">Bet puisis lūdzās:</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="92">
+    <se lang="uk" variant_id="0">Muk man da beļveļ iščo jekh molos ke joj!</se>
+    <se lang="lv" variant_id="1">— Laid mani šovakar vēlreiz pie viņas!</se>
+    <weight variant_id="1">0,290909</weight>
+  </para>
+  <para id="93">
+    <se lang="uk" variant_id="0">Jakes čāvo noko zagija ke kraļiskiri čaj i phenela :</se>
+    <se lang="lv" variant_id="1">Tā nu puisis vēlreiz aizgāja pie princeses un sacīja:</se>
+    <weight variant_id="1">0,286364</weight>
+  </para>
+  <para id="94">
+    <se lang="uk" variant_id="0">Lačes, so lačum tut dasavi hotnona!</se>
+    <se lang="lv" variant_id="1">Jauki, ka atrodu tevi labā omā!</se>
+    <weight variant_id="1">0,255556</weight>
+  </para>
+  <para id="95">
+    <se lang="uk" variant_id="0">Mange hota, so tu javjan, zigarjengīro!</se>
+    <se lang="lv" variant_id="1">Priecājos, ka esi atnācis, pulksteņmeistar!</se>
+    <weight variant_id="1">-0,0447761</weight>
+  </para>
+  <para id="96">
+    <se lang="uk" variant_id="0">Raz tu javjan, jač i beš pal skamind.</se>
+    <se lang="lv" variant_id="1">Kad nu esi klāt, paliec un pakavējies, sēdies pie galda.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="97">
+    <se lang="uk" variant_id="0">Ne dava sāro čāvo rakirdža kokoro pesa i tel koncos pheņdža:</se>
+    <se lang="lv" variant_id="1">Taču to visu puisis joprojām runāja viens pats un beigās teica:</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="98">
+    <se lang="uk" variant_id="0">Lači beļveļasa!</se>
+    <se lang="lv" variant_id="1">— Ar labunakti!</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="99">
+    <se lang="uk" variant_id="0">Lačes tuke me džal, zigarjengīro!</se>
+    <se lang="lv" variant_id="1">Lai tev labi klājas, pulksteņmeistar!</se>
+    <weight variant_id="1">-0,0122951</weight>
+  </para>
+  <para id="100">
+    <se lang="uk" variant_id="0">Vāvir dives les vikhardža kraļis!</se>
+    <se lang="lv" variant_id="1">Nākamajā dienā viņu pasauca ķeizars.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="101">
+    <se lang="uk" variant_id="0">Javja paše do pora so mange čebi tuke te zčingirav tīro šēro, pal dova so koņčiņdžapes so tu mandir mangjan.</se>
+    <se lang="lv" variant_id="1">Nu gan man tevi jānogalina, jo tavs laiks ir beidzies.</se>
+    <weight variant_id="1">0,0130435</weight>
+  </para>
+  <para id="102">
+    <se lang="uk" variant_id="0">Tu že džines, kraļi – Dēvel mānušeske prostini trin moli,- čāvo otpheņdža.</se>
+    <se lang="lv" variant_id="1">— Tu tak zini, ķeizar — Dievs cilvēkam piedod trīs reizes, — puisis atteica.</se>
+    <weight variant_id="1">0,530769</weight>
+  </para>
+  <para id="103">
+    <se lang="uk" variant_id="0">Ne ladno, dža da beļveļ iščo ke joj.</se>
+    <se lang="lv" variant_id="1">Nu, labs ir, ej šovakar vēlreiz pie viņas.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="104">
+    <se lang="uk" variant_id="0">Beļveļe čāvo gija ko kraļiskiri rakli i phenela:</se>
+    <se lang="lv" variant_id="1">Vakarā puisis aizgāja pie princeses un sacīja:</se>
+    <weight variant_id="1">0,292683</weight>
+  </para>
+  <para id="105">
+    <se lang="uk" variant_id="0">Lači beļveļ, miro kham!</se>
+    <se lang="lv" variant_id="1">Labvakar, mans kroņlukturi!</se>
+    <weight variant_id="1">0,228571</weight>
+  </para>
+  <para id="106">
+    <se lang="uk" variant_id="0">Parikirav, tut so javjan, zigarjengīro, beš ko skamind.</se>
+    <se lang="lv" variant_id="1">Paldies, ka atnāci, pulksteņmeistar; sēdies tik pie galda.</se>
+    <weight variant_id="1">0,281633</weight>
+  </para>
+  <para id="107">
+    <se lang="uk" variant_id="0">Terdžo, terdžo!</se>
+    <se lang="lv" variant_id="1">Pagaidi, pagaidi!</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="108">
+    <se lang="uk" variant_id="0">Dikhes kada čūri ande miro vast?</se>
+    <se lang="lv" variant_id="1">Vai redzi šo nazi man rokā?</se>
+    <weight variant_id="1">0,234783</weight>
+  </para>
+  <para id="109">
+    <se lang="uk" variant_id="0">Me tut začinava po kuski, ke tu naotveķinesa so me tutir sphučava.</se>
+    <se lang="lv" variant_id="1">Es tevi sagriezīšu gabalu gabalos, ja neatbildēsi uz manu jautājumu.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="110">
+    <se lang="uk" variant_id="0">Sir naotveķinava, zigarjengīro!</se>
+    <se lang="lv" variant_id="1">Kā tad nu neatbildēšu, pulksteņmeistar!</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="111">
+    <se lang="uk" variant_id="0">Phen mange, miro kham, tu piņčkires kraļiski ča?</se>
+    <se lang="lv" variant_id="1">Tad saki, kroņlukturi, vai tu pazīsti ķeizara meitu?</se>
+    <weight variant_id="1">0,604762</weight>
+  </para>
+  <para id="112">
+    <se lang="uk" variant_id="0">Sir napiņčikarav, zigarjengīro.</se>
+    <se lang="lv" variant_id="1">Kā nu nepazīšu, pulksteņmeistar!</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="113">
+    <se lang="uk" variant_id="0">A tu piņčkires i trin kraļiskire čāven?</se>
+    <se lang="lv" variant_id="1">Un vai tu pazīsti arī trīs ķeizara dēlus?</se>
+    <weight variant_id="1">0,666176</weight>
+  </para>
+  <para id="114">
+    <se lang="uk" variant_id="0">Piņčkirava, zigarhengīro.</se>
+    <se lang="lv" variant_id="1">Pazīstu gan, pulksteņmeistar.</se>
+    <weight variant_id="1">0,264</weight>
+  </para>
+  <para id="115">
+    <se lang="uk" variant_id="0">Dava šukār, so tu piņčkiresa.</se>
+    <se lang="lv" variant_id="1">— Tas ir jauki, ka pazīsti.</se>
+    <weight variant_id="1">0,26087</weight>
+  </para>
+  <para id="116">
+    <se lang="uk" variant_id="0">Sāre trin pšala kamle kraļiski ča, ne pšala nadžindle so sāre trin kamen jekhona.</se>
+    <se lang="lv" variant_id="1">Visiem trim brāļiem patika ķei zara meita, taču brāļi nezināja, ka visi trīs mīl vienu un to pašu meiteni.</se>
+    <weight variant_id="1">0,213043</weight>
+  </para>
+  <para id="117">
+    <se lang="uk" variant_id="0">Ne – so kerdža čajori?</se>
+    <se lang="lv" variant_id="1">Bet — ko darīja meitene?</se>
+    <weight variant_id="1">0,268421</weight>
+  </para>
+  <para id="118">
+    <se lang="uk" variant_id="0">Joj dova džiņdža so jone si pšala.</se>
+    <se lang="lv" variant_id="1">Viņa gan zināja, ka tie ir brāļi.</se>
+    <weight variant_id="1">0,289286</weight>
+  </para>
+  <para id="119">
+    <se lang="uk" variant_id="0">Jekh beļveļ an gosti javja phūredīr pšal.</se>
+    <se lang="lv" variant_id="1">Kādu vakaru ciemos atnāca vecākais brālis.</se>
+    <weight variant_id="1">0,283333</weight>
+  </para>
+  <para id="120">
+    <se lang="uk" variant_id="0">Čajori podija les te hal, mukhja ke pe i zakerdža de jekh štuba.</se>
+    <se lang="lv" variant_id="1">Meitene pa mieloja viņu ar vakariņām, atstāja pie sevis un ieslēdza kādā istabā.</se>
+    <weight variant_id="1">0,209434</weight>
+  </para>
+  <para id="121">
+    <se lang="uk" variant_id="0">Rati javja vāvir pšal, i doles joj mukhja ke pe i zakerdža de vāvir štuba.</se>
+    <se lang="lv" variant_id="1">Naktī atnāca vidējais brālis; arī to viņa atstāja pie sevis un ieslēdza citā istabā.</se>
+    <weight variant_id="1">0,245902</weight>
+  </para>
+  <para id="122">
+    <se lang="uk" variant_id="0">Po koncos javja ternedir pšal , i doles joj jačadža ke pe.</se>
+    <se lang="lv" variant_id="1">Pēdīgi atnāca jaunākais brālis, un arī to viņa atstāja pie sevis.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="123">
+    <se lang="uk" variant_id="0">Vāvir tašarla joj mukhja pšala te zadenpes.</se>
+    <se lang="lv" variant_id="1">Nākamajā rītā viņa ļāva brāļiem sa tikties.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="124">
+    <se lang="uk" variant_id="0">Sāre trin pšala čurdinepes jekh po jekheste, ne čajori pheņdža: „Terdžon,pšala, naumaren jekh jekhes!</se>
+    <se lang="lv" variant_id="1">Visi trīs metās cits citam virsū, bet meitene sacīja: «Ap stājieties, brāļi, nenogaliniet cits citu!</se>
+    <weight variant_id="1">0,293103</weight>
+  </para>
+  <para id="125">
+    <se lang="uk" variant_id="0">Džan khēre, len svako tumendir deš tišči saunakune love i džan po trin targi.</se>
+    <se lang="lv" variant_id="1">Dodieties mājās, paņe miet katrs desmittūkstoš dukātu un ejiet uz trim tirgus lauku miem.</se>
+    <weight variant_id="1">0,244615</weight>
+  </para>
+  <para id="126">
+    <se lang="uk" variant_id="0">Kon mange janela samo šukardir veščos, doleskiri me javava.”</se>
+    <se lang="lv" variant_id="1">Kas man atnesīs visskaistāko mantu, tam es piederēšu.»</se>
+    <weight variant_id="1">0,26875</weight>
+  </para>
+  <para id="127">
+    <se lang="uk" variant_id="0">Phūredīr pšal gija pe Buharesta i lača šukār glendaris.</se>
+    <se lang="lv" variant_id="1">Vecākais brālis devās uz Bukaresti un atrada skaistu spoguli.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="128">
+    <se lang="uk" variant_id="0">Šun bariga,- jov phučja,- būt molel kada glendaris?</se>
+    <se lang="lv" variant_id="1">«Ei, tirgotāj,» viņš vaicāja, «cik šis spogulis maksā?»</se>
+    <weight variant_id="1">0,273333</weight>
+  </para>
+  <para id="129">
+    <se lang="uk" variant_id="0">Ne deš tišči saunakasa</se>
+    <se lang="lv" variant_id="1">— «Nu, desmittūkstoš dukātu.»</se>
+    <weight variant_id="1">-0,02</weight>
+  </para>
+  <para id="130">
+    <se lang="uk" variant_id="0">Dikhesa.</se>
+    <se lang="lv" variant_id="1">— «Ak tā.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="131">
+    <se lang="uk" variant_id="0">A, nāni dava po kuč?</se>
+    <se lang="lv" variant_id="1">Vai tas nav par dārgu?»</se>
+    <weight variant_id="1">0,247059</weight>
+  </para>
+  <para id="132">
+    <se lang="uk" variant_id="0">Podikha, šukāredir, savo da čudno glendaris.</se>
+    <se lang="lv" variant_id="1">— «Apskati vien labāk, kas tas par brīnišķu spoguli.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="133">
+    <se lang="uk" variant_id="0">Dikta de leste te dodikhesa de leste mulen i džiden mānušen.</se>
+    <se lang="lv" variant_id="1">Ieskaties tajā, un tu ieraudzīsi gan mirušos, gan dzīvos.»</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="134">
+    <se lang="uk" variant_id="0">Podjavja te džal vāvir pšaleske .</se>
+    <se lang="lv" variant_id="1">Nu bija vidējā brāļa kārta.</se>
+    <weight variant_id="1">0,2375</weight>
+  </para>
+  <para id="135">
+    <se lang="uk" variant_id="0">Jov gija pe vāvir foros i lathja kaftanos.</se>
+    <se lang="lv" variant_id="1">Viņš aizgāja uz citu pilsētu un atrada kaftānu.</se>
+    <weight variant_id="1">0,258333</weight>
+  </para>
+  <para id="136">
+    <se lang="uk" variant_id="0">Šun bariga, būt molel kada kaftanos?</se>
+    <se lang="lv" variant_id="1">«Ei, tirgotāj, cik šis kaftāns maksā?»</se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="137">
+    <se lang="uk" variant_id="0">Ne, deš tišči saunakasa.</se>
+    <se lang="lv" variant_id="1">— «Nu, desmittūkstoš dukātu.»</se>
+    <weight variant_id="1">0,0789474</weight>
+  </para>
+  <para id="138">
+    <se lang="uk" variant_id="0">So tu rakires bariga!</se>
+    <se lang="lv" variant_id="1">— «Ko tu runā, tirgotāj!</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="139">
+    <se lang="uk" variant_id="0">Kaj tu dikhjan kaftanos te molel deš tišči saunakaasa?</se>
+    <se lang="lv" variant_id="1">Kaftāns lai maksātu desmittūkstoš dukātu?»</se>
+    <weight variant_id="1">0,238462</weight>
+  </para>
+  <para id="140">
+    <se lang="uk" variant_id="0">Jasavi ķimin, dikta savo da kaftanos!</se>
+    <se lang="lv" variant_id="1">— «Jā gan; paraugies vien, kas tas par kaftānu!</se>
+    <weight variant_id="1">0,236364</weight>
+  </para>
+  <para id="141">
+    <se lang="uk" variant_id="0">So tu po leste pašosa, jov tut an do samo pora dolidžala kaj tuke čebi te javes.</se>
+    <se lang="lv" variant_id="1">Tiklīdz tu uz tā apgulsies, tas tevi aiznesīs, kur vien tu vēlies.</se>
+    <weight variant_id="1">0,482555</weight>
+  </para>
+  <para id="142">
+    <se lang="uk" variant_id="0">Ne tu polijan, so dava si i me pal leste namangava kuč.</se>
+    <se lang="lv" variant_id="1">Nu tu sapratīsi, ka nav par dārgu prasīts.»</se>
+    <weight variant_id="1">0,568468</weight>
+  </para>
+  <para id="143">
+    <se lang="uk" variant_id="0">Podgija pora te džal ternedir pšaleske , i jov gija pe vāvir foros i dojavja ko jekh judos.</se>
+    <se lang="lv" variant_id="1">Visbeidzot jaunākais brālis aizgāja uz citu pilsētu un nonāca pie kāda žīda.</se>
+    <weight variant_id="1">0,259091</weight>
+  </para>
+  <para id="144">
+    <se lang="uk" variant_id="0">Dolestir jov kiņdža phabuj.</se>
+    <se lang="lv" variant_id="1">No tā viņš nopirka ābolu.</se>
+    <weight variant_id="1">0,259091</weight>
+  </para>
+  <para id="145">
+    <se lang="uk" variant_id="0">Phabuj sis čudno – ke da phabuj hala mūlo mānuš, jov kerlape džīdo.</se>
+    <se lang="lv" variant_id="1">Ābols bija brīnumains — ja to apēda miris cilvēks, tad viņš atkal atdzīvojās.</se>
+    <weight variant_id="1">0,246429</weight>
+  </para>
+  <para id="146">
+    <se lang="uk" variant_id="0">Da phabasa čāvo javja ke peski pšala.</se>
+    <se lang="lv" variant_id="1">Ar šo ābolu puisis atgriezās pie saviem brāļiem.</se>
+    <weight variant_id="1">0,20625</weight>
+  </para>
+  <para id="147">
+    <se lang="uk" variant_id="0">Ke javdle ko kraļiskiri čaj, jone lathle la mūļa.</se>
+    <se lang="lv" variant_id="1">Kad visi pārnāca pie princeses, viņi atrada to mirušu.</se>
+    <weight variant_id="1">0,264286</weight>
+  </para>
+  <para id="148">
+    <se lang="uk" variant_id="0">Ternedir čāvo dija lake te hal da phabuj, i joj javja ko dživipen.</se>
+    <se lang="lv" variant_id="1">Tad jaunākais iedeva viņai apēst ābolu, un viņa tūliņ atdzīvojās.</se>
+    <weight variant_id="1">0,289091</weight>
+  </para>
+  <para id="149">
+    <se lang="uk" variant_id="0">Ne pal koneste joj kana te džal palo rom?</se>
+    <se lang="lv" variant_id="1">Bet kuru nu lai ņem par vīru?</se>
+    <weight variant_id="1">0,175</weight>
+  </para>
+  <para id="150">
+    <se lang="uk" variant_id="0">Joj vigija palo rom pale ternedir pšaleste.</se>
+    <se lang="lv" variant_id="1">Viņa ņēma jaunāko brāli.</se>
+    <weight variant_id="1">0,0818182</weight>
+  </para>
+  <para id="151">
+    <se lang="uk" variant_id="0">So pal dava phenesa tu?</se>
+    <se lang="lv" variant_id="1">Un ko par to teiksi tu?</se>
+    <weight variant_id="1">0,784211</weight>
+  </para>
+  <para id="152">
+    <se lang="uk" variant_id="0">Daj kraļiskiri čaj zarakirdža, zigarjengīro lija la palo rom i kerde bāro bjav.</se>
+    <se lang="lv" variant_id="1">Te ķeizara meita ierunājās, pulksteņmeistars dabūja viņu par sievu un rīkoja kāzas.</se>
+    <weight variant_id="1">0,277941</weight>
+  </para>
+</body>
+</html>

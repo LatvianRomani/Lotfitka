@@ -1,0 +1,11052 @@
+-lexeme:
+ lex: ačmeņitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miežu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-dīsengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-dīsengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-diveseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-diveseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-diveseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-diveseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-diveseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-diveseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-divesitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-molòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šoreizējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ada-molòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šoreizējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasai
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: šāda
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasai
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tāda
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasavi
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: šāda
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasavi
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tāda
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: adasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: agorutno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gala-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: agorutno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: beigu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: agorutno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pēdējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: agorutno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: beidzamais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: agrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: agrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aizlīnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aizņemts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: akadasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: akadasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: akadasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: akadasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: akanatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tagadējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: amāre-dīsengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: amāre-dīsengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: amare-divesengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: amare-divesengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: amerikānitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: amerikāņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: amerikānitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: amerikānisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: andratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iekšējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angil-linaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pavasara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angil-linaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ziedoņa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angil-linaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pavasarīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angil-linaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pavasara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angil-linaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ziedoņa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angil-linaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pavasarīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: anglatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: priekšējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angļitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: angļu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: apaļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apaļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arābitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: arabu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arčičeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: alvas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: armēnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: armēņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aspinalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tērauda-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: avratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ārējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: avsinalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tērauda-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-balengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garmatains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-balengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garmatis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-balengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garmatains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-balengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garmatis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielacains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielacains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar lielu muti
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar lielu seju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. ar lielu ģīmi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar lielu muti
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar lielu seju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. ar lielu ģīmi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-nakheskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gardegunis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-nakheskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gardegunis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-rodoskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: diž-ciltīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāre-rodoskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: diž-ciltīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bāredir
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lielāks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bārīno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: audzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bārīno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izaudzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bārjakiribnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar audzināšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bārjakiribnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar audzināšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: liels
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dižs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bagaipnaskīri
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: dziedošā
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bagaipnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dziedošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakrane-cipakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aitādas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakrane-cipakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aitādas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: auna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: teķa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aunu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: teķu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aitas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jēra-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakrengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aitu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bakrengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aitu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baličhanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cūkas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baličhanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cūku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baluni
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: mataina
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baluni
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: spalvaina
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: balunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: matains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: balunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: spalvains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bančkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saliekts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bančkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: salīcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bandžkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saliekts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bandžkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: salīcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-dumeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kuprains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-dumeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sakumpis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-dumeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kumps
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-dumeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kuprains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-dumeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sakumpis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-dumeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kumps
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-džeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-džeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķībacains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizacains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķielējošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķielacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķībacains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizacains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķielējošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķielacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pāršķiebies
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pāršķiebts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pāršķobīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar greizu muti
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar greizu seju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. ar greizu ģīmi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pāršķiebies
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pāršķiebts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pāršķobīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar greizu muti
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar greizu seju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. ar greizu ģīmi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar līku (ērgļa) degunu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līkdegunis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar šķību degunu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķībdegunis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar šķību degunu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šķībdegunis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar līku (ērgļa) degunu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-nakheskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līkdegunis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-pirengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līkkājains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-pirengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar līkām kājām
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-pirengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kleins
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-pirengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līkkājains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-pirengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar līkām kājām
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bange-pirengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kleins
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bangi
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: līka
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bangi
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: greiza
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: greizs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vainīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: barunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: akmens-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: barunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: akmeņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: barunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūra-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: barunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: akmeņains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: barvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bagāts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bašnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gaiļa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bašnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gaiļu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxčakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar laimi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxčakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar likteni saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxčakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: laimīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxčakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar laimi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxčakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar likteni saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxčakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: laimīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: baxtalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: laimīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bedò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bedò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nabadzīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bedò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: trūcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzamò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: beidzamais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzindoj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: beidzot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzindoj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: beigdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: beidzot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: beigdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzinduj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: beidzot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beidzinduj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: beigdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beļveļakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vakara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beļveļakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vakara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: benganò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: velna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: benganò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: velnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bengvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: velnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bengvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sātanisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bengvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: traks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bergitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kalna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bergitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kalnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bergitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kalnains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beršengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar gadiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beršengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar gadiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beršeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar gadu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beršeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar gadu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beršitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gada-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: beršitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gadu vecs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sēdošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sēdošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cietuma-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindoj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēdus
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindoj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēžot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindoj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēžam
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindoj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēdēdams sitzend
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēdus
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēžot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēžam
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēdēdams sitzend
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešinduj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēdus
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešinduj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēžot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešinduj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēžam
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešinduj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sēdēdams sitzend
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ieslodzīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bešto
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ieslodzīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bezexalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grēcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-balengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez matiem
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-balengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plikgalvains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-balengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez matiem
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-balengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plikgalvains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-baxtalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nolādētais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-baxtalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sasodītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-baxtalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nelaimīgais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-brodakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezbārdains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-brodakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezbārdains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-brozdakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezbārdains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-brozdakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezbārdains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-bučakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezdarbnieks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-čhibitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mēms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dādeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez tēva
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav mātes
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav mātes
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzobu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez zobiem
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzobains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzobis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzobu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez zobiem
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzobains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzobis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav viena zoba
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-dandeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav viena zoba
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ārprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: traks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ārprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-godžakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: traks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-grengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzirgu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-grengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-grengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav zirgu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-grengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzirgu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-grengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-grengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav zirgu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-greskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzirga-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-greskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-greskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav zirga
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-greskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezzirga-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-greskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-greskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav zirga
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav vienas acs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav vienas acs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienacis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav abu acu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-jakhengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam nav abu acu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezgala-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezgalīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nebeidzams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūžīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezgala-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezgalīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nebeidzams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-koncòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūžīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-lādžakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-lādžakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nekaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-lādžakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-lādžakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nekaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-movakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mēms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīrengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkaju-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīrengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkājis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīrengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkaju-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīrengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkājis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīreskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez kājas
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīreskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienkājis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīreskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez kājas
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-pīreskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienkājis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vastengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezroku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vastengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezrocis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vastengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezroku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vastengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezrocis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vasteskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez rokas
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vasteskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienrocis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vasteskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bez rokas
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bi-vasteskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienrocis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bibolditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ebreju-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bidakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar ieslodzījumu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bidakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar ieslodzījumu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: biezò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: biezs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: biezò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: biežs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bībeļitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: Bībeles-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bībeļitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bībelisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bijandlo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzemdēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bijandlo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: (pie)dzimis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bijando
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzemdēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bijando
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: (pie)dzimis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: biknibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pārdošanas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: biknibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pārdošanas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bilādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezkaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bilādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nekaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bilādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bezgodīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bilādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: negodīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bisanditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pavasara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bisanditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ziedoņa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bisanditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pavasarīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bistrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: veikls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bistrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sprigans
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bistrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nasks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bistrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izveicīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bistrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: žigls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bivand
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: jēls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bivand
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: nevārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bjavengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kāzu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bjavengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kāzu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bļadò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bāls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bļedò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bāls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bogò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nabags
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bogò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nabadzīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bogò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: trūcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bokhalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izsalcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bokhalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izbadējies
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: boldò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iemērkts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: boldò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iemērcēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: boldò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kristīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: boldò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: krust-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bolibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: debess-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bolibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: debesu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bolibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: debess-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bolibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: debesu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bolibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: debess-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bolibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: debesu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: brezitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērza-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: brezitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērzu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: brilijantitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: briljanta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: brilijantitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: briljantu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: britkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pretīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: britkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: riebīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: britkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nejauks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: britkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nelāgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: britkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. draņķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: britkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neglīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: brūnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brūns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bučakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: darba-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bučakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: strādīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: bučkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nodarbināts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buhle-pšikengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buhle-pšikengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar platiem pleciem
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buhle-pšikengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buhle-pšikengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar platiem pleciem
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buhlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plats
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buhlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plašs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: buje-dīnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iesaistīt kādu kā partneri dzimumaktā
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: burò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tumši brūns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: burštunitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzintara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-beršengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzgadīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-beršengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzgadējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-beršengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzgadīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-beršengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzgadējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-čhāvoorengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzbērnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-čhāvoorengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzbērnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-čhibengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzvalodu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-čhibengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzvalodu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-dīsengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-dīsengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-manušengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ļaužu pilns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-manušengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ļaužu pilns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-mujengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzsejains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-mujengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzsejains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-rīgengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzpusīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-rīgengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzpusīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-stāvengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzstāvu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: būt-stāvengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daudzstāvu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čālò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: paēdis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čālò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: atēdies
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čārjitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zāles-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čārjitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zāli saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čačò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pareizs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čačunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: īsts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čačunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: īstens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čačunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pareizs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čamlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gremot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čamlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: košļāt
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čamlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zelēt
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: celò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: celò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vesels
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čemnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tumšs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čemnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: melnīgsnējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čerhiņòvatò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zvaigžņots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čexitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: čehu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čexitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: Čehijas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvoorikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvooritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvooritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvooritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhāvooritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērnišķs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhibalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pļāpīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhindlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apgriezts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhindlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apgraizīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar griešanu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pļaušanu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zāģēšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar mūzikas instrumentu spēlēšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar rakstīšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar griešanu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pļaušanu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zāģēšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar mūzikas instrumentu spēlēšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar rakstīšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhinibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar rakstīšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čhučhò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tukšs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čikalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dubļains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čikalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: māla-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čikalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mālains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čikenalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: trekns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čikenalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: taukains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: cipuni
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: ādas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: cipunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ādas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čiriklitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: putna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čiriklitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: putnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čirlatuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čistò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tīrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čixò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kluss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čixò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mierīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čmadò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: melnīgsnējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čooroorò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nabags
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čooroorò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nabadzīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čooroorò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: trūcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čoraxanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slepens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: cudzò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: svešs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čulo
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: mazliet
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čulo
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: nedaudz
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čulo
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: drusku
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: čulo
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: drusciņ
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-dīsengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-dīsengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-dīseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-dīseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šo dienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-diveseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-diveseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-diveseskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-diveseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-diveseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-diveseskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šodienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šīsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-divesitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šāsdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-molòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šoreizējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: da-molòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šoreizējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tēvu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vecāku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: senču-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tēvu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vecāku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: senču-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tēva-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tēvišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tēva-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dādeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tēvišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dačnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: devīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dačnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dāsns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dandirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kosts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dandvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dandvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kam ir lieli
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dandvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: asi zobi
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: daranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: briesmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: daranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šausmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: daranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šaušalīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: davlitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dieva-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: davlitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dievišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dembitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ozola-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dembitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ozolu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dembitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ozolkoka-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ďenealoďitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ģenealoģisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ďenealogiskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ģenealoģisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: destitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cīņas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: muļķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nejauks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neglīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dimanta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilinò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dimantu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: muļķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nejauks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neglīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dimanta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dilnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dimantu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dimantitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dimanta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dimantitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dimantu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: do-molòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: toreizējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: do-molòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: toreizējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dojavlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nonācis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: došalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cietušais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: došvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cietušais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: drakhalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vīnogu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: drogò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dārgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-čhibengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divvalodu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-čhibengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divvalodu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-kurkengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divnedēļu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-kurkengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divnedēļu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-mujengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divkosīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-mujengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divkosīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-rīgengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divpusējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-rīgengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: abpusējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-rīgengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divpusējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-rīgengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: abpusējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-stāvengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divstāvu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: duj-stāvengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: divstāvu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dukhanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sāpīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: durxvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: caurs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: durxvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: caurumains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dūr
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dūr-dikhibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tālredzīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dūralò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dūratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tāls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džangalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nomodā esošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirsnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džeskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirsnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džīdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzīvs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džikò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: meža-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džikò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: savvaļas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džikò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mežonīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džinčkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džindžkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džinibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zinošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dživarnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brīnumains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dživarnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brīnišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dživarnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brīnumjauks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dživarnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: burvīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dzivdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzīvs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dživibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzīvojošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: dživibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzīvojošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džuklanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: suņa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džuklanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: suņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: netīrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nelietīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neģēlīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nekrietns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: riebīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nejauks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aptraipīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nepieklājīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džungalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piedauzīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džūlikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sievietes-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džūlikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sieviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džuvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: utains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džuvlikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sievietes-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: džuvlikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sieviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ēďiptitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: Ēģiptes-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ēďiptitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ēģiptiešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: iropeitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: Eiropas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: iropeitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: eiropiešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: falšò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viltots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: fandaritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar krievu čigāniem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: fardò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ciets
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: fededir
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: labāks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: felditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lauka-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: felditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lauku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: finnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: somu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: frančengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: franču-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: frančitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: franču-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: fuj
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: slikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gādžikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nečigānisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gādžitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nečigānisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gādžkanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nečigānisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gabaipnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar dziedāšanu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gaišò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gaišs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gavitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ciema-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gavitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sādžas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gavitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lauku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: genstò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: biezs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: geralò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kašķains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: glaunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. glauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gluxò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kurls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gņadò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bērs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: godnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cienīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: godnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vērts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gooli-dībnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kliedzošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gooli-dībnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brēcošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gotovò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gatavs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gožo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skaists
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grastanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zirga-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grastanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zirgu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zirgiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zirgiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: greskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zirgu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: greskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zirgu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grexļivò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grēcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gribengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sēņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gribengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sēņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grieťitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grieķu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grubò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: biezs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: grubò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: resns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gruzīnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gruzīnu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gudlo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: salds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gudžvārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gudrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gudžvārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: prātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gudžvārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: guodīgò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: godīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: guruvanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vērša-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: guruvanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vēršu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: guruvanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: govs-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: gūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: salds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hāratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: haļakiribnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saprotams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: halipnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saprotošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: halipnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saprotams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hojnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hojnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: fig. brangs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hostrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ass
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hučedir
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: augstāks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hučò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: augsts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hučò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hulò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: hulò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: muļķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: idžēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viens pats
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: idžēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vientuļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: idžēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vientulīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ieslavime
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: ieslavēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ilitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirds-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ilitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirsnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: inditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: indiešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: interesantò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: interesants
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: interesime
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: ieinteresēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniega-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piesnidzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniega-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piesnidzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: izglītuotò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izglītots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ja-būt
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tik daudz
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāgitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: uguns-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāgitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ugunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāgunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: uguns-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāgunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ugunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāvi
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: nākdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāvi
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: nākot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jāvi
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: nākam
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jasnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skaidrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jasnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gaišs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: javindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: nākdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: javindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: nākot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: javindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: nākam
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jêêlo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jēls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jekh-džēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viens pats
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jekh-džēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vientuļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jekh-džēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vientulīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jilitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirds-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jilitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirsnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniega-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piesnidzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniega-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piesnidzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: jivunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sniegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: juditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ebreju-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kālò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: melns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kadasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kadasaò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kadasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk šāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kadasavò
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: lūk tāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kamlò
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: mīļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kamlò
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: mīļots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kanatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tagadējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kaštunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: koka-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kaštunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kokains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kašuko
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kurls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kavlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mīksts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kēradlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kēradlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izvārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kēradò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kēradò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izvārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dūkans
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khacengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar kaķiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khacengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar kaķiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khameskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar sauli saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khameskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar sauli saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khamitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saulains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khamlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sasvīdis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khamlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nosvīdis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khamunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saulains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khandunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smirdošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khandunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khêêritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mājas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khelibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar deju saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khetaņakirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apvienots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khīnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: noguris
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khīnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piekusis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: khusò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kindlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nopirkts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kindo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slapjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kirkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rūgts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kirmalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tārpains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kirmalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tārpu saests
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kirnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sapuvis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kirnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: satrūdējis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kirnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: satrunējis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: klārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skaidrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kokalitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kaulains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: koolò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mīksts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kooro
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: akls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kovlo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mīksts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kraļitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: karaļa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kraļitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ķēniņa-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krecò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sprogains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krecò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cirtains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krentlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. šiverīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krentlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: veikls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krentlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izveicīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krentlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izdarīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krentlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ņiprs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: krotkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: īss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kruglò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apaļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kuč
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: dārgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: kurkitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: svētdienas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kaunīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kautrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ādžakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kautrīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ačhe-džeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: labsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ačhiņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: labs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ačhiņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: labais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ačhò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: labs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ačhò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: labais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: alooritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: igauņu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: alooritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: igaunisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: alooro
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mēms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: angalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: klibs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļenitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: linu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļeņivò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slinks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļentò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lēns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: īnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ņemts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ikhalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gnīdains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: imalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: puņķainscolloq.
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: inaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vasaras-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: indralò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: indrovatò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļitavitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lietuviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļitavitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: leišu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļoditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ledus-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļoditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ledains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: odlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: čigānu nometnē dzīvojošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oftitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oftitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latvju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: okhò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viegls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ondò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sāļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ondò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sālīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ļonitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: linu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oolò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sarkans
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ošalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: priecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ošalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līksms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otfengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otfengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latvju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otfengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otfengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latvju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otfitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latviešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otfitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: latvju
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ubikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izvirtis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ubikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: netikls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mānušanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cilvēka-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mānušanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cilvēku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mānušitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cilvēcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mānušitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: humans
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mārdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sists
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: māre-dīsengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: māre-dīsengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: māre-divesengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: māre-divesengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mūsdienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mačhunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zivs-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mačhunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zivju-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: magirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rituāli nešķīsts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: marmoritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: marmora-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: masengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miesas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: masengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miesu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: maškiratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vidus-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: maškiratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vidējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: masunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gaļas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mašvārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kārtīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mašvārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: krietns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mašvārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: matò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piedzēries
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: matò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iereibis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: matò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apskurbis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mēnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miris
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: melalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: netīrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: miļiņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mīļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: miļiņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: patīkams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: miļiņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: laipns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: milò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mīļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: milò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: patīkams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: milò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: laipns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mirzonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nelietīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mirzonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neģēlīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mirzonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nekrietns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mirzonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: riebīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mirzonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nejauks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mištò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: labs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mižax
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: ļauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: mižax
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: nikns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: moritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jūras-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: moroskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jūras-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: moroskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jūras-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: moskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar seju vai muti saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: moskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar seju vai muti saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: muršitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vīriešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: muršitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vīrišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: muršitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: drošsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: murškanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vīriešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: murškanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vīrišķīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: murškanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: drošsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nāizbistirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neaizmirstams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nabaxtalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nelaimīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nalačhò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nelabs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kails
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: napašiji
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: neguļot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: napašiji
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: neguļam
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: napašiji
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: negulēdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: narobime
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: nepelnīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nasvalengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar slimniekiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nasvalengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar slimniekiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nasvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slims
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: naviginibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neskaitāms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nazavidnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neskaudīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nēļivò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slinks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nēvò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ņemò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mēms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nernò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neiereibis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nernò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nedzēris
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: nôphendlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: noteikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: obšeļipume
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pārkāpts (likums)
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: obšeļipume
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pārkāpta (bauslība)
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: opratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: augšējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: opratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: virsējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pāņingalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ūdens-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pāš-beršeskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pusgadu vecs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pačaibnangīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar ticību vairākiem dieviem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pačaibnangīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: politeistisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pačaibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar ticību vienam dievam saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pačaibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: monoteistisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: palatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pakaļējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: papiņitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zoss-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: papiņitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zosu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: paramišitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pasakains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: parņiņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: baltiņš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: parnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: baits
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: parnooro
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: baltiņš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pašlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: guļošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pašlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aizmidzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pašlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iemidzis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pēdīgò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pēdējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pēdīgò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pēdīgais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pērvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: resnvēderains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pērvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lielvēderains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: persitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: persiešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pfuj
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: slikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smags
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grūts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phārunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zīda-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phabitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ābolu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pharadli
+ stem: 
+ gramm: adj f
+ gloss: 
+ transl_lv: maita
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pharadlò (graj)
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: colloq. nosprādzis (zirgs)
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pheni
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sakot
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pheni
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sakām
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pheni
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: sacīdams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pherdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pilns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pherjasuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: joku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pherjasuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: joka-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pheršò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pirmais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phumbalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: strutains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phumbalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pūžņains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phūjanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zemes
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phūredir
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: vecāks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phūrikanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vecmodīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phūrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vecs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: phūvjanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zemes
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: piesiklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pieradis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: piesiklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apradis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: piesiklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ieradis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pirangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: baskājains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pišnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lepns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pòkojnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mierīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pòkojnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apmierināts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: poļakitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: poļu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pošļedņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pēdējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pošļedņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: beidzamais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pošomalo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vilnas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: prostò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienkāršs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pšalitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brālīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pšeršò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pirmais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: pšīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vaļā
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sensens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sendienu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: seno laiku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: senlaicīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: senatnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vecs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: puranò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: veco laiku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rabò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: raibs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: račakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nakts-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: račakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: naksnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: račakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nakts-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: račakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: naksnīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: radò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: priecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: radò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līksms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rajkanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kundzisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rakhibnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar sargāšanuapsargāšanu, aizsargāšanu, aizstāvēšanu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rakhibnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar sargāšanuapsargāšanu, aizsargāšanu, aizstāvēšanu
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rangīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar kungiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rangīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kungiem piederošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar kungiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kungiem piederošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienam kungam piederošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vienam kungam piederošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ratunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: asins-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ratvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: asiņains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ravnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līdzīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lēnprātīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saticīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piekāpīgscilvēks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piekāpīgscilvēks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pieradināts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lēns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mierīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: raxmanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rāmsdzīvnieks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: retò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rets
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ričhanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lāča-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ričhanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lāču-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: riebīgò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: riebīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rizunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: noskrandis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rizunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skrandains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: robime
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: pelnīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rodnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzimtais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: roibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: raudulīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: roibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bēdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: romanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: čigānu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: romanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: čigānisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: romengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar čigāniem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: romengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: čigāniem piederošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: romengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar čigāniem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: romengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: čigāniem piederošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rožviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: godbijīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ruomiešitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: romiešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: rupovò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sudrabains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ruvanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vilka-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ruvanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vilku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sābnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smaidošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sābnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smejošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sābnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smaidošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sābnaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smejošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sābnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smieklīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sānò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tievs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sānò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: plāns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sānò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smalks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sārò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sajek
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: mūžīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sapanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slapjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sapanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mitrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sapanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: drēgns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sasitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vācu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sastipnaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar veselību saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sastò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vesels
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sastrunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzelzs-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: savnakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zelta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: savnakunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zeltains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šeļakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dažāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šeļakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: visāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šeļakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: daždažāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šeļakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: visvisāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: semencitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: radniecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: semencitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: radniecisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šeraditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rudenīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: signò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ātrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: siklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pieradis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: siklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apradis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: siklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ieradis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: siklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mācīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: siklò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apmācīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šilale-rateskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aukstasinīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šilalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: auksts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šiņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zils
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sirovò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nevārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sivò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sirms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: sivò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pelēks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: skempò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skops
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šļankitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: stikla-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šļankitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: stiklains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmačnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garšīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmadò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: melnīgsnējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smalkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smalks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smalkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: glezns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smalkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: elegants
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: drošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: drosmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: drošsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smašnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garšīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smentnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smentnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smentnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bēdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smentnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sērīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smentnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grūtsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmerčitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nāvīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šmerčitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nāves-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smutnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smutnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smutnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bēdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smutnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sērīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: smutnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grūtsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: soibnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: miegains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: špalitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brālīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šperšò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pirmais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: špetnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: špetns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: špetnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: negants
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: špīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: valā
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: štaļitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tērauda-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: statnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pēdējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: statnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: beidzamais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: straxviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: briesmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: straxviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šausmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: straxviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: šaušalīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: štubakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar istabu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: štubakò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar istabu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šukar
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: skaists
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šukar
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: daiļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šukar
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: krāšņs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šukò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sauss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: suomitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: somu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šutlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skābs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: suto
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: guļošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: uzpampis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: uztūcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piepampis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pietūcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sapampis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šūlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: satūcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šuvlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: uzpampis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šuvlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: uztūcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šuvlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piepampis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šuvlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pietūcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šuvlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sapampis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šuvlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: satūcis
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šužò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tīrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: švatlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: gaišs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: šveditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zviedru-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: svenčime
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: svētīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: svenconò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: svēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: švenčume
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: svētīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tagaritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tagaritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: caru-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tagaritkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: carisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: talatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apakšējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tamlo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tumšs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: taņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: lēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tardò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: stāvošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: targòskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar tirgu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: targòskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar tirgu saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tarnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: taśatuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vakara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: taśatuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rīta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tašatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vakara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tašatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rīta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tatò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: silts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: terdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: stāvošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ternò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thadvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tekošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thavunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: diegu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thulò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: trekns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thulò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: resns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thulò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tukls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thulò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: taukains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thūdanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piena-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thūditkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: piena-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: thuvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dūmains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ťīnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ķīniešu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tikniņkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: maziņš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: tiknò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mazs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ťirurďitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ķirurģisks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: trašano
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: biedējošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: trudnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smags
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: trudnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grūts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: trudnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: grūtsirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: trujatunò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apkārtējs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: trušalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izslāpušais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: učò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: augsts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: učò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: garš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: učonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mācīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: učonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skolots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: učonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izglītots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ukhļistes
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: jāšus
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: umbladò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pakārts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: umblavdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: pakārts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: uštindòj
+ stem: 
+ gramm: adj pp
+ gloss: 
+ transl_lv: uzceļoties
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: užlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: parādā esošais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vāgedir
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: agrākais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vāgo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: agrākais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vāgo
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līdzšinējais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vārčhanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: citāds
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vadviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar defektu (trūkumu, vainu)
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vadviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: netikls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vadviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: netikumīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vadviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: aplams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vadviļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nepareizs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vastitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: rokas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vastitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: roku-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: važime
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cienīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: važime
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: godāts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: važime
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cienījams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: važime
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: godājams
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vēlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vēls
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vērtò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: cienīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vērtò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vērts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vešitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: meža-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vešitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mežu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vešitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: mežains
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vīnitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vīna-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vikēradlò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izvārīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vikurdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: izausts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vojonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vojonò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: militārs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: voļnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brīvs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: voļņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: brīvs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: vostrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ass
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ačkirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: karsts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: karavīra-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kareivja-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zaldāta-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: karavīru-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kareivju-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zaldātu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: aladitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: krievu-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arkuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arkuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kapara-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arkuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viltots
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arkuno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: neīsts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: arno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: iss
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: indò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: slikts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: indò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vulg. sūdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: indvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smirdošs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: indvalò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: smirdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: itrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: viltīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oļame
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dusmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oļame
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nikns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oļame
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ļauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: olinakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dusmīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: olinakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nikns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: olinakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ļauns
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: or
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: dziļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: priecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jautrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: otnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līksms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: oxanò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: melīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ulangīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar saimniekiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ulangò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar saimniekiem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ulaskīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar saimnieku saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: ulaskò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar saimnieku saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: urdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: sīks
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: votnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: priecīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: votnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: jautrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: votnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līksms
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zablondò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: apmaldījies
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zablondò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: nomaldījies
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zaklidume
+ stem: 
+ gramm: adj
+ gloss: 
+ transl_lv: aizslēgts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zakurdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: saspiests
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zakurdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: samīcīts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žaļnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žaļnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žaļnò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bēdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žaļņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumjš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žaļņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: skumīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žaļņò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: bēdīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zaļò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zaļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žambitkò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: vardes-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zarakirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: līgts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zarakirdò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: derēts
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zeleno
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: zaļš
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zervò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: kreisais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žiltò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: dzeltens
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žimakīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ziemas-
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zoralò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: spēcīgs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: zoralò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: stiprs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žužò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: tīrs
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žvirengīrò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zvēriem saistītais
+ transl_en:
+ transl_ru:
+
+-lexeme:
+ lex: žvirengò
+ stem: 
+ gramm: adj m
+ gloss: 
+ transl_lv: ar zvēriem saistītais
+ transl_en:
+ transl_ru:
+
