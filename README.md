@@ -16,7 +16,7 @@ Lists of lemmas are provided in the UniParser format (https://www.aclweb.org/ant
 
 ## Modern texts
 These are the translations of Romani fairytales from Latvian, namely from the book "Laimes puķe" edited by Silvija Brice, who translated most of them from German and Russian, and added some texts from Jānis Leimanis archive (which requires comparison of the original manuscripts with the published versions, though of the Latvian text only; these are units 126, 169, 414, and 276).
-The Latvian and Latvian Romani versions of most of these texts are published at the website http://www.pasakas.net/pasakas/citu_tautu_pasakas/ciganu-pasakas/, where the audiofiles in both languages are also provided, which gives a unique option to listen to Latvian Romani.
+The Latvian and Latvian Romani versions of most of these texts are published at the website http://www.asakas.net/pasakas/citu_tautu_pasakas/ciganu-pasakas/, where the audiofiles in both languages are also provided, which gives a unique option to listen to Latvian Romani.
 
 ## RMS
 Here, the information from the Latvian samples collected for the Romani Morphosyntax Database (https://romani.humanities.manchester.ac.uk//rms/) is going to be put.
