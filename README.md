@@ -21,3 +21,7 @@ The Latvian and Latvian Romani versions of most of these texts are published at 
 ## RMS
 Here, the information from the Latvian samples collected for the Romani Morphosyntax Database (https://romani.humanities.manchester.ac.uk//rms/) is going to be put.
 
+## Frequency dictionaries
+These frequency dictionaries were automatically generated on the basis of various subcorpora: the Gospel translation, a fairytales collection from Pasakas.net, texts from the Leimanis collection, and texts from one of the copybooks by Paul Ariste, kindly provided by Anette Ross. One of the files based on Leimanis' texts has very raw frequencies, as it was based on all automatically transcribed pages available in spring 2021 (that is, not all of them have been proofread, errors are not surprising). There are two types of dictionaries available: reverse frequency lists and alphabetical.
+
+
